@@ -1,5 +1,11 @@
 angular.module('starter.controllers', [])
 
+.run(function($rootScope, $http) {
+
+    var server = mw.var('server'),
+        url = 'macketing/v2?ak={AK}&';
+    $http.get('');
+})
 .controller('DashCtrl', function($scope) {})
 
 .controller('ChatsCtrl', function($scope, Chats) {
