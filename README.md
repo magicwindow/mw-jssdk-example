@@ -31,17 +31,17 @@ JSSDK必须与MagicWindow Native SDK配合使用，那么，如何在Hybrid App�
 
 ## 集成MagicWindow JSSDK
 
-1. 通过CDN使用JSSDK:
+通过CDN使用JSSDK:
 ```html
 <script src="http//magicwindow.com/code/mw-sdk.min.js"></script>
 ```
 
-2. 使用Bower下载JSSDK:
+使用Bower下载JSSDK:
 ```bash
 $ bower install mw-sdk --save
 ```
 
-3. 使用Npm下载JSSDK:
+使用Npm下载JSSDK:
 ```bash
 $ npm install mw-sdk --save
 ```
