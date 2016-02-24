@@ -43,20 +43,48 @@
     -->
     <ion-nav-view></ion-nav-view>
 
-    <script src="lib/mw-sdk/dist/mw-sdk.js"></script>
-    <!--<script src="http://192.168.199.201:3000/mw-sdk.js"></script>-->
+    <!--<script src="lib/mw-sdk/dist/mw-sdk.js"></script>-->
+    <!--<script src="http://192.168.1.12:3000/dist/mw-sdk.js"></script>-->
+    <script src="http://colin-mac:3000/dist/mw-sdk.js"></script>
     <script>
-      mw.sdk.init({
-        'server'  : 'http://stats.magicwindow.cn/', // 不用修改
-        'appkey'  : 'FUQE0U7HEJKCQ7P1V3Y7SOWM3U7WWM0N', // 从哪里获取appkey: 魔窗后台 》应用设置 》应用管理 》（你关联的应用里面的appkey）
-        'sv'  : '2.3',
-        'av' : '2.3'
-      });
+
+      if (mwsdk) {
+
+        // device 信息由Cordova插件提供: codova plugin cordova-plugin-device
+        document.addEventListener("deviceready", function() {
+
+          mwsdk.device.model        = window.device.model;
+          mwsdk.device.os           = window.device.os;
+          mwsdk.device.version      = window.device.version;
+          mwsdk.device.uuid         = window.device.uuid;
+          mwsdk.device.manufacturer = window.device.manufacturer;
+          mwsdk.device.isVirtual    = window.device.isVirtual;
+          mwsdk.device.serial       = window.device.serial;
+
+          mwsdk.init({
+            'server'  : 'http://stats.magicwindow.cn', // 不用修改
+            'appkey'  : '760MMH20F0M1BE56LR2L0U0FZ1CRASC3', // 从哪里获取appkey: 魔窗后台 》应用设置 》应用管理 》（你关联的应用里面的appkey）
+            'appVersion': '2.3'
+          });
+
+        }, false);
+
+
+      } else {
+
+        mw.sdk.init({
+          'server'  : 'http://stats.magicwindow.cn', // 不用修改
+          'appkey'  : '760MMH20F0M1BE56LR2L0U0FZ1CRASC3', // 从哪里获取appkey: 魔窗后台 》应用设置 》应用管理 》（你关联的应用里面的appkey）
+          'appVersion' : '2.3'
+        });
+
+      }
 
       document.addEventListener("deviceready", onDeviceReady, false);
       function onDeviceReady() {
 //        alert(JSON.stringify(device, 0, 4));
       }
+
     </script>
 
 

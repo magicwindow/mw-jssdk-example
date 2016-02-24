@@ -2,11 +2,48 @@ angular.module('starter.controllers', [])
 
 .run(function($rootScope, $http) {
 
-    var server = mw.var('server'),
-        url = 'macketing/v2?ak={AK}&';
-    $http.get('');
+    //var server = mw.var('server'),
+    //    url = 'macketing/v2?ak={AK}&';
+    //$http.get('');
 })
-.controller('DashCtrl', function($scope) {})
+.controller('DashCtrl', function($scope) {
+
+    $scope.share = function() {
+
+      //Wechat.setOptions({
+      //  appId: 'mwadmin' // your app id here
+      //});
+
+      Wechat.isInstalled(function (installed) {
+
+        //alert("Wechat installed: " + (installed ? "Yes" : "No"));
+
+        Wechat.share({
+          text: "This is just a plain string",
+          scene: Wechat.Scene.TIMELINE   // share to Timeline
+        }, function () {
+          alert("Success");
+        }, function (reason) {
+          alert("Failed: " + reason);
+        });
+
+
+        var scope = "snsapi_userinfo";
+        Wechat.auth(scope, function (response) {
+          // you may use response.code to get the access token.
+
+          alert('authed');
+
+        }, function (reason) {
+          alert("Failed: " + reason);
+        });
+
+      }, function (reason) {
+        alert("Failed: " + reason);
+      });
+    }
+
+  })
 
 .controller('ChatsCtrl', function($scope, Chats) {
   // With the new view caching in Ionic, Controllers are only called
