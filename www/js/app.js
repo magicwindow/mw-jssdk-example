@@ -84,10 +84,14 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
 
   // Scheme 路由
   if (window.localStorage && window.localStorage.getItem('scheme')) {
-    var path = '/'+ localStorage.getItem('scheme').replace(/^\w+:\/*/, '');
-    alert('path: '+ path);
-    localStorage.setItem('scheme', '');
-    document.location.hash = path;
+    try {
+      var path = '/' + localStorage.getItem('scheme').replace(/^\w+:\/*/, '');
+      alert('path: ' + path);
+      localStorage.setItem('scheme', '');
+      document.location.hash = path;
+    }catch(e){
+      alert(e.message);
+    }
 
   }
 
