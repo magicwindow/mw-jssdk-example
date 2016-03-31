@@ -46,5 +46,16 @@ $ bower install mw-sdk --save
 $ npm install mw-sdk --save
 ```
 
+## Custom URL Scheme
+- mwjssdk://
+- mwjssdk://tab/dash
+- mwjssdk://tab/chats
+- mwjssdk://tab/chats/10000
+- mwjssdk://tab/chats/10001
+- mwjssdk://tab/chats/10002
+- mwjssdk://tab/chats/10003
+- mwjssdk://tab/chats/10004
+- mwjssdk://tab/account
+
 ## 更多
 如果您想了解关于Magicwindow JSSDK更多的资料，请前往[MagicWindow JSSDK](https://github.com/magicwindow/mw-jssdk)的Repository。

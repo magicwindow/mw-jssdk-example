@@ -82,4 +82,21 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
   // if none of the above states are matched, use this as the fallback
   $urlRouterProvider.otherwise('/tab/dash');
 
+  // Scheme 路由
+  if (window.localStorage && window.localStorage.getItem('scheme')) {
+    var path = '/'+ localStorage.getItem('scheme').replace(/^\w+:\/*/, '');
+    alert('path: '+ path);
+    localStorage.setItem('scheme', '');
+    document.location.hash = path;
+
+  }
+
+  // 场景还原
+  // 如果您的App是从mlink引导用户下载安装的,那么用户第一次打开应用可以还原用户最后在网页和社交媒体上看到的场景;
+  mwsdk.router(function(path) {
+    if (path) {
+      document.location.hash = path;
+    }
+  });
+
 });

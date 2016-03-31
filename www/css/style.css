@@ -2,3 +2,51 @@
 .mw-tabs .tab-nav{
 
 }
+
+.mw-tabs .tabs {
+  background-color: #0a6ce6 !important;
+  color: #fff;
+  height: 66px;
+}
+
+.mw-tabs .tab-item .icon {
+  color: #fff;
+}
+
+.has-tabs-top {
+  /*top: 110px !important;*/
+}
+
+
+.mw-tabs .tab-item .tab-title {
+  color: #fff;
+}
+
+.tabs-striped .tabs {
+  border-color: #33ff00 !important;
+}
+
+.mw-tabs .tab-item {
+  padding: 10px 0;
+}
+.tabs-striped .tab-item.tab-item-active, .tabs-striped .tab-item.active, .tabs-striped .tab-item.activated {
+  border-color: #3f0;
+}
+
+.tabs-top.tabs-striped .tab-item.tab-item-active, .tabs-top.tabs-striped .tab-item.active, .tabs-top.tabs-striped .tab-item.activated {
+  border-width: 0 0 3px 0 !important;
+}
+
+.mw-tabs mw-block {
+  background-color: #eaeaea;
+  border: 1px solid #d1d8dc;
+  border-radius: 12px;
+  box-shadow: 0 0 7px rgba(0,0,0,0.1);
+  margin: 5px 0 0;
+  text-align: center;
+  overflow: hidden;
+}
+
+.mw-tabs mw-block:empty {
+  display: none;
+}

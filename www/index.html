@@ -46,52 +46,139 @@
     <script src="lib/mw.sdk/dist/mw-sdk.js"></script>
     <script>
 
-      var evn = 'test';
-      var config = evn==='test' ? {
-        server: 'http://stats.test.magicwindow.cn',
-        appkey: 'XEJ7F76J61LHEWRI3Q9A6UN9BM4CRT3X' // AppName: andoird_no_del
-      } : {
-        'server'  : 'http://stats.magicwindow.cn',
-        'appkey'  : '760MMH20F0M1BE56LR2L0U0FZ1CRASC3' // AppName: iOs 魔窗演示app
-      }
+      var env = 'prod';
 
-      if (mwsdk) {
+      var config = {
+        "test": {
+            server: 'http://stats.test.magicwindow.cn',
+            appkey: 'XEJ7F76J61LHEWRI3Q9A6UN9BM4CRT3X' // AppName: andoird_no_del
+        },
+        "prod": {
+          'server'  : 'http://stats.magicwindow.cn',
+          'appkey'  : '760MMH20F0M1BE56LR2L0U0FZ1CRASC3' // AppName: iOs 魔窗演示app
+        },
+        "local": {
+          'server': 'http://192.168.1.41:3010/',
+          'appkey': '760MMH20F0M1BE56LR2L0U0FZ1CRASC3' // AppName: iOs 魔窗演示app
+        }
+      }[env];
 
-        // device 信息由Cordova插件提供: codova plugin cordova-plugin-device
-        document.addEventListener("deviceready", function() {
+      // device 信息由Cordova插件"cordova-plugin-device"提供,
+      // 请为您的项目安装Cordova插件: cordova plugin cordova-plugin-device
+      document.addEventListener("deviceready", function() {
 
-          mwsdk.device.model        = window.device.model;
-          mwsdk.device.os           = window.device.os;
-          mwsdk.device.version      = window.device.version;
-          mwsdk.device.uuid         = window.device.uuid;
-          mwsdk.device.manufacturer = window.device.manufacturer;
-          mwsdk.device.isVirtual    = window.device.isVirtual;
-          mwsdk.device.serial       = window.device.serial;
+        mwsdk.device.model        = window.device.model;
+        mwsdk.device.os           = window.device.os;
+        mwsdk.device.version      = window.device.version;
+        mwsdk.device.uuid         = window.device.uuid;
+        mwsdk.device.manufacturer = window.device.manufacturer;
+        mwsdk.device.isVirtual    = window.device.isVirtual;
+        mwsdk.device.serial       = window.device.serial;
 
-          mwsdk.init({
-            'server'  : config.server, // 不用修改
-            'appkey'  : config.appkey, // 从哪里获取appkey: 魔窗后台 》应用设置 》应用管理 》（你关联的应用里面的appkey）
-            'appVersion': '2.3'
-          });
+        /**
+         * 您自定义的字符串格式化代码
+         */
+        function customTextFormater(text) {
+          return '<span style="color: red;">'+ text + '</span>';
+        }
 
-        }, false);
+        /**
+         * 您自定义的时间格式化方法
+         * @param datestamp
+         * @returns {string}
+           */
+        function customDateFormater(datestamp) {
+          var date = new Date();
+              date.setTime(datestamp);
+          var weeks = ['星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六'];
+          var dateStr = date.getFullYear()+'年'+(date.getMonth()+1)+'月'+date.getDate() +'日';
+          var timeStr = [date.getHours(), date.getMinutes(), date.getSeconds()].join(':');
+          var weekStr = weeks[date.getDay()];
 
+          return [dateStr, timeStr, weekStr].join(' ');
+        }
 
-      } else {
+        /**
+         * 渲染一个有详细描述的魔窗位
+         */
+        function descrptionTemplate (banner) {
+          return '<div>' +
+            '  <h2 style="color: red;">使用自定义模板渲染的魔窗位:</h2>' +
+            '  <img src="[ $imgUrl ]" thumb-src="[ $thumbUrl ]"/>' +
+            '  <h3>魔窗位标题: [ $title ]</h3>' +
+            '  <h3>'+ customTextFormater(banner.title) +'</h3>' +
 
-        mw.sdk.init({
+            '  <p>[ $description ]</p>' +
+            '  <p>'+ customTextFormater(banner.description) +'</p>' +
+
+            '  <time>活动开始时间:[ $startTime ]; 活动结束时间: [ $endTime ]</time>' +
+            '  <time>活动开始时间:'+ customDateFormater(banner.startTime) +'; 活动结束时间: '+ customDateFormater(banner.startTime) +'</time>' +
+            '</div>';
+        }
+
+        /**
+         * 渲染一个有详细描述的魔窗位
+         */
+        function descrptionTemplate2 (banner) {
+          return '<div>' +
+            '  <img src="[ $imgUrl ]" thumb-src="[ $thumbUrl ]"/>' +
+            '  <div style="text-align: left; padding: 12px;">' +
+            '    <h2 style="color: red;">使用自定义模板渲染的魔窗位:</h2>' +
+            '    <h3> 魔窗位标题: '+ customTextFormater(banner.title) +'</h3>' +
+            '    <div>魔窗位描述:'+ customTextFormater(banner.description) +'</div>' +
+            '    <div>活动开始时间: '+ customDateFormater(banner.startTime) +';</div>' +
+            '    <div>活动结束时间: '+ customDateFormater(banner.startTime) +';</div>' +
+            '  </div>' +
+            '</div>';
+        }
+
+        /**
+         * 渲染一个有标题描述的魔窗位
+         */
+        function titleTemplate (banner) {
+          return '<div>' +
+            '  <h2 style="color: red;">使用自定义模板渲染的魔窗位:</h2>' +
+            '  <h3>魔窗位标题: [ $title ]</h3>' +
+            '  <img src="[ $imgUrl ]" thumb-src="[ $thumbUrl ]"/>' +
+            '</div>';
+        }
+
+        /**
+         * 初始化MWSDK
+         */
+        mwsdk.init({
           'server'  : config.server, // 不用修改
           'appkey'  : config.appkey, // 从哪里获取appkey: 魔窗后台 》应用设置 》应用管理 》（你关联的应用里面的appkey）
-          'appVersion' : '2.3'
+          'appVersion': '2.3',
+          'template': {
+
+            // 指定魔窗位"bannerKey1"的渲染模板
+            'ZC5Z1YHV': '<div><img src="[ $imgUrl ]"/></div>',
+
+            'LRQS1291': descrptionTemplate,
+
+            '50C7RTJ2': titleTemplate,
+
+            'DDPRDZ0C': descrptionTemplate2,
+
+            // 指定魔窗位"bannerKey2"的渲染模板
+            '26M137XQ': function(banner) {
+
+            }
+          }
         });
 
-      }
+      }, false);
 
-      document.addEventListener("deviceready", onDeviceReady, false);
-      function onDeviceReady() {
-//        alert(JSON.stringify(device, 0, 4));
-      }
 
+      // Custom Scheme Handle
+      function handleOpenURL(url) {
+        try {
+          localStorage.setItem('scheme', url);
+        }catch(e){
+          alert(e.message);
+        }
+      }
     </script>
 
 

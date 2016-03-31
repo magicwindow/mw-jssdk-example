@@ -1,14 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.ionicframework.mwjssdkexample231252" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>mw-jssdk-example</name>
+    <name>MWJSSDK</name>
     <description>
-        An Ionic Framework and Cordova project.
+        Magic Window JSSDK Test Demo.
     </description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+    <author email="mail@luozhihua.com" href="http://magicwindow.cn/">
+      Magic Window
     </author>
     <content src="index.html" />
-    <access origin="*" />
     <preference name="webviewbounce" value="false" />
     <preference name="UIWebViewBounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />
@@ -19,7 +18,9 @@
     <feature name="StatusBar">
         <param name="ios-package" onload="true" value="CDVStatusBar" />
     </feature>
-    <allow-navigation href="*://*.magicwindow.cn/*" />
+    <access origin="*" />
+    <allow-navigation href="*" />
+    <allow-intent href="*" />
     <platform name="android">
         <icon density="ldpi" src="resources/android/icon/drawable-ldpi-icon.png" />
         <icon density="mdpi" src="resources/android/icon/drawable-mdpi-icon.png" />
@@ -39,6 +40,24 @@
         <splash density="port-xhdpi" src="resources/android/splash/drawable-port-xhdpi-screen.png" />
         <splash density="port-xxhdpi" src="resources/android/splash/drawable-port-xxhdpi-screen.png" />
         <splash density="port-xxxhdpi" src="resources/android/splash/drawable-port-xxxhdpi-screen.png" />
+        <!--<icon density="ldpi" src="resources/icon.png" />-->
+        <!--<icon density="mdpi" src="resources/icon.png" />-->
+        <!--<icon density="hdpi" src="resources/icon.png" />-->
+        <!--<icon density="xhdpi" src="resources/icon.png" />-->
+        <!--<icon density="xxhdpi" src="resources/icon.png" />-->
+        <!--<icon density="xxxhdpi" src="resources/icon.png" />-->
+        <!--<splash density="land-ldpi" src="resources/splash.png" />-->
+        <!--<splash density="land-mdpi" src="resources/splash.png" />-->
+        <!--<splash density="land-hdpi" src="resources/splash.png" />-->
+        <!--<splash density="land-xhdpi" src="resources/splash.png" />-->
+        <!--<splash density="land-xxhdpi" src="resources/splash.png" />-->
+        <!--<splash density="land-xxxhdpi" src="resources/splash.png" />-->
+        <!--<splash density="port-ldpi" src="resources/splash.png" />-->
+        <!--<splash density="port-mdpi" src="resources/splash.png" />-->
+        <!--<splash density="port-hdpi" src="resources/splash.png" />-->
+        <!--<splash density="port-xhdpi" src="resources/splash.png" />-->
+        <!--<splash density="port-xxhdpi" src="resources/splash.png" />-->
+        <!--<splash density="port-xxxhdpi" src="resources/splash.png" />-->
     </platform>
     <platform name="ios">
         <icon height="57" src="resources/ios/icon/icon.png" width="57" />
@@ -67,6 +86,36 @@
         <splash height="1024" src="resources/ios/splash/Default-Portrait~ipad.png" width="768" />
         <splash height="960" src="resources/ios/splash/Default@2x~iphone.png" width="640" />
         <splash height="480" src="resources/ios/splash/Default~iphone.png" width="320" />
+
+        <!--<icon height="57" src="resources/icon.png" width="57" />-->
+        <!--<icon height="114" src="resources/icon.png" width="114" />-->
+        <!--<icon height="40" src="resources/icon.png" width="40" />-->
+        <!--<icon height="80" src="resources/icon.png" width="80" />-->
+        <!--<icon height="50" src="resources/icon.png" width="50" />-->
+        <!--<icon height="100" src="resources/icon.png" width="100" />-->
+        <!--<icon height="60" src="resources/icon.png" width="60" />-->
+        <!--<icon height="120" src="resources/icon.png" width="120" />-->
+        <!--<icon height="180" src="resources/icon.png" width="180" />-->
+        <!--<icon height="72" src="resources/icon.png" width="72" />-->
+        <!--<icon height="144" src="resources/icon.png" width="144" />-->
+        <!--<icon height="76" src="resources/icon.png" width="76" />-->
+        <!--<icon height="152" src="resources/icon.png" width="152" />-->
+        <!--<icon height="29" src="resources/icon.png" width="29" />-->
+        <!--<icon height="58" src="resources/icon.png" width="58" />-->
+        <!--<icon height="87" src="resources/icon.png" width="87" />-->
+        <!--<splash height="1136" src="resources/splash.png" width="640" />-->
+        <!--<splash height="1334" src="resources/splash.png" width="750" />-->
+        <!--<splash height="2208" src="resources/splash.png" width="1242" />-->
+        <!--<splash height="1242" src="resources/splash.png" width="2208" />-->
+        <!--<splash height="1536" src="resources/splash.png" width="2048" />-->
+        <!--<splash height="768" src="resources/splash.png" width="1024" />-->
+        <!--<splash height="2048" src="resources/splash.png" width="1536" />-->
+        <!--<splash height="1024" src="resources/splash.png" width="768" />-->
+        <!--<splash height="960" src="resources/splash.png" width="640" />-->
+        <!--<splash height="480" src="resources/splash.png" width="320" />-->
     </platform>
-    <engine name="android" spec="~5.1.1" />
+    <engine name="android" spec="~4.3" />
+    <engine name="browser" spec="~24.0.0" />
+    <plugin name="ionic-plugin-keyboard" spec="~2.0.1" />
+    <engine name="ios" spec="~4.0.1" />
 </widget>

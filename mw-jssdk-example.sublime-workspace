@@ -1,0 +1,1848 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"and",
+				"androidDownloadUrl"
+			],
+			[
+				"po",
+				"pointer	(index.html)"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"lvl",
+				"lvl-2"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"http",
+				"httpProvider	(app.js)"
+			],
+			[
+				"mo",
+				"module	AngularJS"
+			],
+			[
+				"admin",
+				"admin/"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"logi",
+				"loginDialog"
+			],
+			[
+				"requr",
+				"requireAuthenticatedUser	(security.authorization.js)"
+			],
+			[
+				"req",
+				"requireAdminUser"
+			],
+			[
+				"requir",
+				"requireAdminUser	(security.authorization.js)"
+			],
+			[
+				"router",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"Mat",
+				"Math	(ajax.js)"
+			],
+			[
+				"pub",
+				"publicPath"
+			],
+			[
+				"paren",
+				"parentNode"
+			],
+			[
+				"parent",
+				"parentNode                                (obj)  [C]"
+			],
+			[
+				"getE",
+				"getElementsByTagName〔function〕"
+			],
+			[
+				"va",
+				"validate"
+			],
+			[
+				"el",
+				"elem"
+			],
+			[
+				"elem",
+				"elements"
+			],
+			[
+				"get",
+				"getElementsByName〔function〕"
+			],
+			[
+				"scene",
+				"sceneData"
+			],
+			[
+				"date",
+				"dataType"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lo",
+				"location                                  (obj)  [C]"
+			],
+			[
+				"sign",
+				"signature"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"conf",
+				"config"
+			],
+			[
+				"curr",
+				"currentIndex"
+			],
+			[
+				"comp",
+				"components"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"new",
+				"newList"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"option",
+				"options"
+			],
+			[
+				"de",
+				"destroy	(tools.ctrl.js)"
+			],
+			[
+				"init",
+				"initSwiper"
+			],
+			[
+				"console",
+				"console (obj) [C]"
+			],
+			[
+				"resoue",
+				"$resource	AngularJS"
+			],
+			[
+				"fact",
+				"factory"
+			],
+			[
+				"name",
+				"namepath"
+			],
+			[
+				"conti",
+				"continue〔keyword〕"
+			],
+			[
+				"dir",
+				"direction"
+			],
+			[
+				"onS",
+				"onSubmitComplete"
+			],
+			[
+				"subm",
+				"submit"
+			],
+			[
+				"accou",
+				"accountKeyInput"
+			],
+			[
+				"scen",
+				"sceneIdInput"
+			],
+			[
+				"crea",
+				"createElement〔function〕"
+			],
+			[
+				"submi",
+				"submitForm"
+			],
+			[
+				"server",
+				"serverConfig"
+			],
+			[
+				"serve",
+				"serverConfig"
+			],
+			[
+				"serv",
+				"serverConfig"
+			],
+			[
+				"stat",
+				"staticTemplates"
+			],
+			[
+				"mus",
+				"musicLibData"
+			],
+			[
+				"imag",
+				"imageLib"
+			],
+			[
+				"load",
+				"loading"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"scee",
+				"sceneData"
+			],
+			[
+				"ma",
+				"match"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"ckeditor",
+				"_ckeditor-reset.sass"
+			],
+			[
+				"dest",
+				"destroy"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"edi",
+				"editor"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"play",
+				"playing"
+			],
+			[
+				"getEle",
+				"getElementById"
+			],
+			[
+				"anima",
+				"animation"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"music",
+				"musicplayer"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"poi",
+				"position"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"backgroun",
+				"backgroundSize"
+			],
+			[
+				"line",
+				"linear"
+			],
+			[
+				"next",
+				"nextElementSibling"
+			],
+			[
+				"previ",
+				"previousElementSibling"
+			],
+			[
+				"previe",
+				"previewBox"
+			],
+			[
+				"eve",
+				"eventType"
+			],
+			[
+				"exit",
+				"exitPreviewMode"
+			],
+			[
+				"dist",
+				"distHtml"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"upload",
+				"uploadMusic"
+			],
+			[
+				"delet",
+				"deleteImg"
+			],
+			[
+				"loca",
+				"location                                  (obj)  [E]"
+			],
+			[
+				"succ",
+				"success"
+			],
+			[
+				"copy",
+				"copy:dist"
+			],
+			[
+				"check",
+				"checkedImg"
+			],
+			[
+				"chec",
+				"checkedImg"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"path",
+				"pathname"
+			],
+			[
+				"controll",
+				"controller"
+			],
+			[
+				"sce",
+				"sceneId"
+			],
+			[
+				"deep",
+				"deepCopy"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"prop",
+				"propertices"
+			],
+			[
+				"dele",
+				"delete"
+			],
+			[
+				"control",
+				"controller"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"write",
+				"writeFileSync"
+			],
+			[
+				"wri",
+				"writeFileSync"
+			],
+			[
+				"auto",
+				"autoUpload"
+			],
+			[
+				"uplo",
+				"upload"
+			],
+			[
+				"acc",
+				"acceptUpload"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"$root",
+				"$rootScope"
+			],
+			[
+				"base",
+				"basename"
+			],
+			[
+				"$roo",
+				"$rootScope"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config.xml",
+			"settings":
+			{
+				"buffer_size": 5334,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/templates/tab-dash.html",
+			"settings":
+			{
+				"buffer_size": 12337,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "platforms/android/AndroidManifest.xml",
+			"settings":
+			{
+				"buffer_size": 2507,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "platforms/browser/config.xml",
+			"settings":
+			{
+				"buffer_size": 1071,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 691,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 205,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"to",
+				"TodoReview: Open Files"
+			],
+			[
+				"todo",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"show",
+				"Show TODOs: Open files only"
+			],
+			[
+				"rp",
+				"Package Control: Remove Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"lp",
+				"Package Control: List Packages"
+			],
+			[
+				"ali",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"rpa",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 718.0
+	},
+	"console":
+	{
+		"height": 178.0,
+		"history":
+		[
+			"var a;",
+			"var a",
+			"ls",
+			"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/colin/zxinsight/mw-jssdk-example",
+		"/Users/colin/zxinsight/mw-jssdk-example/hooks/after_prepare",
+		"/Users/colin/zxinsight/mw-jssdk-example/platforms/browser",
+		"/Users/colin/zxinsight/mw-jssdk-example/www"
+	],
+	"file_history":
+	[
+		"/Users/colin/zxinsight/mw-jssdk-example/plugins/browser.json",
+		"/Users/colin/zxinsight/mw-jssdk-example/platforms/platforms.json",
+		"/Users/colin/zxinsight/mw-jssdk-example/hooks/after_prepare/010_add_platform_class.js",
+		"/Users/colin/zxinsight/mw-helpcenter/deeplink.html",
+		"/Users/colin/zxinsight/mw-helpcenter/index.html",
+		"/Users/colin/zxinsight/mw-helpcenter/pages/mlink/content.html",
+		"/Users/colin/zxinsight/mw-helpcenter/pages/mutual-post-manual/content.html",
+		"/Users/colin/zxinsight/mw-helpcenter/pages/index/content.html",
+		"/Users/colin/zxinsight/mw-helpcenter/pages/sdk-js/js-init.code",
+		"/Users/colin/zxinsight/mw-helpcenter/pages/activity-api-manual/key-result.code",
+		"/Users/colin/zxinsight/mw-helpcenter/pages/activity-api-manual/content.html",
+		"/Users/colin/zxinsight/mw-helpcenter/pages/activity-api-manual/decimal-result.code",
+		"/Users/colin/zxinsight/mw-helpcenter/.gitignore",
+		"/Users/colin/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/colin/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/colin/Desktop/deeplink-test.html",
+		"/Users/colin/Projects/magicscenes/dist/exclude.list",
+		"/Users/colin/Projects/magicscenes/.gitignore",
+		"/Users/colin/Projects/magicscenes/package.json",
+		"/Users/colin/Projects/magicscenes/app/scripts/pages.ctrl.js",
+		"/Users/colin/Projects/magicscenes/app/views/scenes-generator.html",
+		"/Users/colin/Projects/magicscenes/app/views/admin/index.tmpl.html",
+		"/Users/colin/Projects/magicscenes/app/views/scene.tmpl.html",
+		"/Users/colin/Projects/magicscenes/app/scripts/client/dialog.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/grid.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/admin/page/list.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/admin/page/ctrl.js",
+		"/Users/colin/Projects/magicscenes/mock-server.js",
+		"/Users/colin/Projects/magicscenes/app/views/security/loginForm.html",
+		"/Users/colin/Projects/magicscenes/app/views/security/userbar.html",
+		"/Users/colin/Projects/magicscenes/app/scripts/security/security.login.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/security/security.login.bar.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/app.js",
+		"/Users/colin/Projects/magicscenes/app/index.html",
+		"/Users/colin/Projects/magicscenes/app/configs/music-lib.json",
+		"/Users/colin/Projects/magicscenes/Gruntfile.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/security/security.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/security/security.authorization.js",
+		"/Users/colin/Projects/magicscenes/app/views/admin/scene.tmpl.html",
+		"/Users/colin/Projects/magicscenes/app/views/admin/scene/list.html",
+		"/Users/colin/Projects/magicscenes/app/styles/style.scss",
+		"/Users/colin/Projects/magicscenes/app/styles/admin/_admin.scss",
+		"/Users/colin/Projects/magicscenes/app/scripts/admin/frame.ctrl.js",
+		"/Users/colin/Projects/magicscenes/mocks/admin/bg.list.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/admin/image/ctrl.js",
+		"/Users/colin/Projects/magicscenes/app/styles/_common.scss",
+		"/Users/colin/Projects/magicscenes/app/scripts/component.editor.ctrl.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/security/interceptor.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/security/retryQueue.js",
+		"/Users/colin/Projects/magicscenes/mocks/scene.template.category.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/security/security.service.js",
+		"/Users/colin/Projects/magicscenes/dist/js/app.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/playground.ctrl.js",
+		"/Users/colin/Projects/magicscenes/.jshintrc",
+		"/Users/colin/Projects/magicscenes/app/components/input-tools/editor.html",
+		"/Users/colin/Projects/magicscenes/app/scripts/admin/scene/list.ctrl.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/admin/image/list.ctrl.js",
+		"/Users/colin/Projects/magicscenes/mocks/admin.scene.list.js",
+		"/Users/colin/Projects/magicscenes/mocks/admin.bg.list.js",
+		"/Users/colin/Projects/magicscenes/mocks/admin.image.list.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/admin/ctrl.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/wysihtml5-parser-rules.js",
+		"/Users/colin/Projects/magicscenes/app/views/admin/image/list.html",
+		"/Users/colin/Projects/magicscenes/app/configs/apis.js",
+		"/Users/colin/Projects/magicscenes/mocks/scene.js",
+		"/Users/colin/Projects/magicscenes/app/configs/img-lib.json",
+		"/Users/colin/Projects/magicscenes/app/configs/bgimg-lib.json",
+		"/Users/colin/Projects/magicscenes/app/scripts/scene.ctrl.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/security/security.login.form.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/admin/frame.tmpl.html",
+		"/Users/colin/Projects/magicscenes/libs/angular-material-icons/package.json",
+		"/Users/colin/Projects/magicscenes/bower.json",
+		"/Users/colin/Projects/magicscenes/libs/angular/package.json",
+		"/Users/colin/Projects/magicscenes/libs/angular-material/package.json",
+		"/Users/colin/Projects/magicscenes/mocks/scene.template.dynamic.js",
+		"/Users/colin/Projects/magicscenes/libs/ngDialog/package.json",
+		"/Users/colin/Projects/magicscenes/app/scripts/client/ajax.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/client/swipe.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/client/form.js",
+		"/Users/colin/Projects/magicscenes/test/bower.json",
+		"/Users/colin/Projects/magicscenes/app/styles/scene.scss",
+		"/Users/colin/Projects/magicscenes/test/karma.conf.js",
+		"/Users/colin/Projects/magicscenes/test/test.conf.js",
+		"/Users/colin/Projects/magicscenes/app/views/preview.tpl.html",
+		"/Users/colin/Projects/magicscenes/app/scripts/client/wechat.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/client/z-init.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/directives.js",
+		"/Users/colin/Projects/magicscenes/libs/swiper/dist/js/swiper.js",
+		"/Users/colin/Projects/magicscenes/app/components/image-tools/editor.html",
+		"/Users/colin/Projects/magicscenes/app/configs/components-template.json",
+		"/Users/colin/Projects/magicscenes/app/scripts/component.configs.svc.js",
+		"/Users/colin/Projects/magicscenes/node_modules/grunt-usemin/package.json",
+		"/Users/colin/Projects/magicscenes/libs/swiper/src/js/core.js",
+		"/Users/colin/Projects/magicscenes/libs/swiper/src/js/dom.js",
+		"/Users/colin/Projects/magicscenes/libs/swiper/src/js/controller.js",
+		"/Users/colin/Projects/magicscenes/libs/swiper/src/js/plugins.js",
+		"/Users/colin/Projects/magicscenes/libs/swiper/src/js/emitter.js",
+		"/Users/colin/Projects/magicscenes/libs/swiper/src/js/hashnav.js",
+		"/Users/colin/Projects/magicscenes/libs/swiper/src/js/effects.js",
+		"/Users/colin/Projects/magicscenes/libs/swiper/src/js/wrap-end.js",
+		"/Users/colin/Projects/magicscenes/libs/swiper/src/js/wrap-start.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/tools.ctrl.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/contextmenu.js",
+		"/Users/colin/Projects/magicscenes/app/views/component-editor.tpl.html",
+		"/6s ease-in-out 0.6s 1 backwards; -moz-animation: bounceIn 1.6s ease-in-out 0.6s 1 backwards; animation: bounceIn 1.6s ease-in-out 0.6s 1 backwards; -moz-animation-direction: ease-in-out; -moz-animation-direction: ease-in-out; animation-direction: ease-in-out; -moz-animation-play-state: running; -moz-animation-play-state: running; animation-play-state: running; padding: 10px; width: 316px; height: 73px; color: #000000; opacity: 1; background-color: rgba(255,255,255,0); border-radius: 320px; box-shadow: 0px 0px 7px #ffffff; border: 0px solid #eeeeee; \"><div id=\"text-compnt-1428406878827-88811 \" class=\"ng-binding \"><span style=\"color: rgb(255, 165, 0); font-size: 32px; \"><b>水</b></span><span style=\"color: rgb(255, 165, 0); font-size: 22px; \">不在深，有龙&nbsp;</span><span style=\"color: rgb(0, 139, 139); font-size: 40px; background-color: rgb(255, 255, 0); \">则灵！</span></div></div></div></form></div><div class=\"swiper-slide-shadow-top \" style=\"opacity: 0; transition-duration: 0ms; \"></div><div class=\"swiper-slide-shadow-bottom \" style=\"opacity: 2; transition-duration: 0ms; \"></div></section><section class=\"page-item swiper-slide swiper-slide-duplicate \" data-swiper-slide-index=\"0 \" style=\"height: 480px; transform: translate3d(0px, 0px, -300px) rotateX(150deg) rotateY(0deg); z-index: -2; transition-duration: 0ms; \"><div class=\"page-bg \" style=\"background-image: url(http:/192.168.1.2:49907/uploads/7410-1e137jp.jpg); \"></div><span class=\"arrow \"></span><div class=\"page-content \"><form id=\"0 \" action=\"?unset \" target=\"_blank \" class=\"ng-pristine ng-valid \"><div class=\"component \" style=\"-webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); transform: rotate(0deg); top: 137px; left: 32px; z-index: 0; \"><div class=\"component-content text-tools-container animate-zoomInLeft \" style=\"overflow:hidden; -webkit-animation: zoomInLeft 1.8s ease-in-out 1s 1 backwards; -moz-animation: zoomInLeft 1.8s ease-in-out 1s 1 backwards; animation: zoomInLeft 1.8s ease-in-out 1s 1 backwards; -moz-animation-direction: ease-in-out; -moz-animation-direction: ease-in-out; animation-direction: ease-in-out; -moz-animation-play-state: running; -moz-animation-play-state: running; animation-play-state: running; padding: 39px; width: 243px; height: 244px; color: #ffffff; opacity: 1; background-color: rgba(197,8,150,0.63); border-radius: 320px; box-shadow: 0px 0px 13px #000000; border: 1px solid #ff008e; \"><div id=\"text-components-xxxx-00020 \" class=\"ng-binding \"><div class=\"wysiwyg-text-align-center \"><br><br><br>Hallo, <span style=\"font-size: 32px; \"><b>World！</b></span></div></div></div></div><div class=\"component \" style=\"-webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); transform: rotate(0deg); top: 68.796875px; left: 182.59375px; z-index: 1; \"><div class=\"component-content text-tools-container animate-zoomIn \" style=\"overflow:hidden; -webkit-animation: zoomIn 1.5s ease-in-out 0s 1 backwards; -moz-animation: zoomIn 1.5s ease-in-out 0s 1 backwards; animation: zoomIn 1.5s ease-in-out 0s 1 backwards; -moz-animation-direction: ease-in-out; -moz-animation-direction: ease-in-out; animation-direction: ease-in-out; -moz-animation-play-state: running; -moz-animation-play-state: running; animation-play-state: running; padding: 10px; width: 108px; height: 110px; color: #000000; opacity: 1; background-color: rgba(255,170,0,0.59); border-radius: 320px; box-shadow: 0px 0px 0px #000000; border: 1px solid #ffbf31; \"><div id=\"text-compnt-1428405572644-7221 \" class=\"ng-binding \"></div></div></div></form></div><div class=\"swiper-slide-shadow-top \" style=\"opacity: 0; transition-duration: 0ms; \"></div><div class=\"swiper-slide-shadow-bottom \" style=\"opacity: 3; transition-duration: 0ms; \"></div></section></div></div></div><script src=\"/js/client-min.js?ver=1434352694277 \"></script><!-- mockjs --><!-- 以下mockjs注释块内的引用在build后将会自动删除 --><link rel=\"stylesheet \" href=\"/css/scene.css \"><link rel=\"stylesheet \" href=\"/swiper/dist/css/swiper.css \" /><script src=\"/swiper/dist/js/swiper.js \"></script><script src=\"/scripts/client/a-tools.js \"></script><script src=\"/scripts/client/ajax.js \"></script><script src=\"/scripts/client/device.js \"></script><script src=\"/scripts/client/swipe.js \"></script><script src=\"/scripts/client/form.js \"></script><script src=\"/scripts/client/audio.js \"></script><script src=\"/scripts/client/init.js \"></script><script ssrc=\"http:/192.168.1.5:8089",
+		"/85, maximum-scale=1.0, user-scalable=0\">');} else {document.write('<meta id=\"viewport\" name=\"viewport\" content=\"width=320, initial-scale=1.0, maximum-scale=1.0, user-scalable=0\">');}var h5Domain = '';var siteDomain = '';var accountKey = 'test';var sceneId = 'xxx';function onpageload() {var loading = document.getElementById('ms-loading'),content = document.getElementById('ms-content');loading.style.opacity = 0;content.style.opacity = 1;setTimeout(function() {loading.style.display = 'none';loading = content = null;}, 1000);}setTimeout(onpageload, 10000);</script><title>抢红包啦</title><meta name=\"description\" content=\"\"><meta name=\"keywords\" content=\"场景应用,Magic Scenes,魔窗\"><link href=\"/css/scene-min.css?ver=1434352694277\" rel=\"stylesheet\"><style type=\"text/css\">/* 为了避免在页面加载前显示空白，把loading所需样式直接写在这里 */.rotate,.rotate-ccw {-webkit-animation:rotate 2s infinite linear;animation: rotate 2s infinite linear;}.rotate-ccw {animation-direction: reverse;}.msFadeOut {-webkit-animation:fadeOut .4s 1 linear;animation: fadeOut .4s 1 linear;}.ms-loading {position: fixed;z-index: 999999999;background-color: rgba(0,0,0,0.9);left: 0;top: 0;width: 100%;height: 100%;-webkit-transition: opacity 1s;transition: opacity 1s;}.ms-loading .loading {position: absolute;left: 50%;top: 50%;box-sizing: border-box;width: 80px;height: 80px;padding: 0px;margin: -64px 0 0 -40px;border-radius: 100%;overflow: hidden;background-color: rgba(255,255,255,0.2);background-repeat: no-repeat;background-size: cover;background-position: center center;}.ms-loading .loading::after,.ms-loading .loading .rotating {content: ' ';width: 80px;height:80px;display: block;box-sizing: border-box;border-radius: 100%;border: 4px solid rgba(255,255,255,0);border-bottom-color: rgba(255,255,255,0.8);-webkit-animation:rotate 1s infinite linear;animation: rotate 1s infinite linear;}.ms-loading .loading figure,.ms-loading .loading figure img {box-sizing: border-box;width: 100%;height: 100%;}@-webkit-keyframes rotate {0% {-webkit-transform: rotate(0deg);}50% {-webkit-transform: rotate(180deg);}100% {-webkit-transform: rotate(360deg);}}@-moz-keyframes rotate {0% {-moz-transform: rotate(0deg);}50% {-moz-transform: rotate(180deg);}100% {-moz-transform: rotate(360deg);}}@keyframes rotate {0% {transform: rotate(0deg);}50% {transform: rotate(180deg);}100% {transform: rotate(360deg);}}</style>↵</head>↵<body onload=\"onpageload()\"><div class=\"ms-loading\" id=\"ms-loading\"><div class=\"loading\"style=\"background-image: url(/uploads/7410-1e137jp.jpg);\" ><div class=\"rotating\"></div></div></div><div id=\"musicplayer\" class=\"animated rotate infinite\" style=\"display: block\"><audio id=\"bg-music\" m=\"res/music/平凡之路.mp3\" src=\"/res/music/平凡之路.mp3\" loop autobuffer autoplay preload></audio><span class=\"icon bg-music-handle\"><img src=\"data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGhlaWdodD0iMzJweCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzIgMzI7IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lkdGg9IjMycHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxnIGlkPSJfeDM3X19tdXNpY19ub2RlIj48cGF0aCBkPSJNMjUuMjcxLDE5LjEwMmMwLjAwNi0wLjAxNiwwLjAxMy0wLjAyOSwwLjAyMS0wLjA0M2MwLjAwNC0wLjA1LDAuMDA4LTAuMTAxLDAuMDE1LTAuMTUyICAgYy0wLjAxMS0wLjAyOC0wLjAyMy0wLjA1Ni0wLjAzNC0wLjA4NGMtNC43NjItMi45NDMtNC4wODgtMTEuNjUxLTkuNjIzLTE0LjczN2MtMC4xODEtMC4xMDMtMC4zNTgtMC4xNC0wLjUzNC0wLjE1MyAgIGMtMC4wNjEtMC4wMTUtMC4xMTktMC4wMzgtMC4xODYtMC4wMzhjLTAuNDQyLDAtMC44MDIsMC4zNi0wLjgwMiwwLjgwM3YxNy40NjZjLTAuNzg5LTAuNTAyLTEuNzk4LTAuODE2LTIuOTE2LTAuODE2ICAgYy0yLjQ5NiwwLTQuNTIxLDEuNTE0LTQuNTIxLDMuMzhzMi4wMjQsMy4zOCw0LjUyMSwzLjM4YzIuNDk3LDAsNC41MjEtMS41MTQsNC41MjEtMy4zOGMwLTAuMDE0LTAuMDA1LTAuMDI1LTAuMDA1LTAuMDM5ICAgYzAuMDAxLTAuMDEsMC4wMDUtMC4wMTcsMC4wMDUtMC4wMjZWMTEuMDg0YzIuNjI2LDEuNjQ2LDIuNjkxLDYuMjAyLDYuMjM5LDcuNzY1YzAuNDc0LDAuMjE3LDEuMzI0LDAuMzY4LDIuMTg5LDAuNDg2ICAgYzAuMTA0LTAuMDA1LDAuMi0wLjAxNSwwLjMwNS0wLjAxNWMwLjA2LDAsMC4xMTIsMC4wMDYsMC4xNjksMC4wMDhjMC4wODgtMC4wMTcsMC4xODQtMC4wMjUsMC4yNzMtMC4wMzkgICBDMjUuMDI1LDE5LjIyMiwyNS4xNDcsMTkuMTYsMjUuMjcxLDE5LjEwMnoiLz48L2c+PC9zdmc+\"></span></div><div id=\"ms-content\" style=\"opacity:0; transition: opacity 0.3s;\"><div id=\"scene\" class=\"scene swiper-container swiper-container-vertical swiper-container-3d swiper-container-coverflow\"><div class=\"page-list swiper-wrapper\" style=\"transition-duration: 0ms; transform: translate3d(0px, -480px, 0px);\"><section class=\"page-item swiper-slide swiper-slide-duplicate swiper-slide-prev\" data-swiper-slide-i…ation: bounceIn 1.6s ease-in-out 0.6s 1 backwards; -moz-animation: bounceIn 1.6s ease-in-out 0.6s 1 backwards; animation: bounceIn 1.6s ease-in-out 0.6s 1 backwards; -moz-animation-direction: ease-in-out; -moz-animation-direction: ease-in-out; animation-direction: ease-in-out; -moz-animation-play-state: running; -moz-animation-play-state: running; animation-play-state: running; padding: 10px; width: 316px; height: 73px; color: #000000; opacity: 1; background-color: rgba(255,255,255,0); border-radius: 320px; box-shadow: 0px 0px 7px #ffffff; border: 0px solid #eeeeee;\"><div id=\"text-compnt-1428406878827-88811\" class=\"ng-binding\"><span style=\"color: rgb(255, 165, 0); font-size: 32px;\"><b>水</b></span><span style=\"color: rgb(255, 165, 0); font-size: 22px;\">不在深，有龙&nbsp;</span><span style=\"color: rgb(0, 139, 139); font-size: 40px; background-color: rgb(255, 255, 0);\">则灵！</span></div></div></div></form></div><div class=\"swiper-slide-shadow-top\" style=\"opacity: 0; transition-duration: 0ms;\"></div><div class=\"swiper-slide-shadow-bottom\" style=\"opacity: 2; transition-duration: 0ms;\"></div></section><section class=\"page-item swiper-slide swiper-slide-duplicate\" data-swiper-slide-index=\"0\" style=\"height: 480px; transform: translate3d(0px, 0px, -300px) rotateX(150deg) rotateY(0deg); z-index: -2; transition-duration: 0ms;\"><div class=\"page-bg\" style=\"background-image: url(http:/192.168.1.2:49907/uploads/7410-1e137jp.jpg);\"></div><span class=\"arrow\"></span><div class=\"page-content\"><form id=\"0\" action=\"?unset\" target=\"_blank\" class=\"ng-pristine ng-valid\"><div class=\"component\" style=\"-webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); transform: rotate(0deg); top: 137px; left: 32px; z-index: 0;\"><div class=\"component-content text-tools-container animate-zoomInLeft\" style=\"overflow:hidden; -webkit-animation: zoomInLeft 1.8s ease-in-out 1s 1 backwards; -moz-animation: zoomInLeft 1.8s ease-in-out 1s 1 backwards; animation: zoomInLeft 1.8s ease-in-out 1s 1 backwards; -moz-animation-direction: ease-in-out; -moz-animation-direction: ease-in-out; animation-direction: ease-in-out; -moz-animation-play-state: running; -moz-animation-play-state: running; animation-play-state: running; padding: 39px; width: 243px; height: 244px; color: #ffffff; opacity: 1; background-color: rgba(197,8,150,0.63); border-radius: 320px; box-shadow: 0px 0px 13px #000000; border: 1px solid #ff008e;\"><div id=\"text-components-xxxx-00020\" class=\"ng-binding\"><div class=\"wysiwyg-text-align-center\"><br><br><br>Hallo, <span style=\"font-size: 32px;\"><b>World！</b></span></div></div></div></div><div class=\"component\" style=\"-webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); transform: rotate(0deg); top: 68.796875px; left: 182.59375px; z-index: 1;\"><div class=\"component-content text-tools-container animate-zoomIn\" style=\"overflow:hidden; -webkit-animation: zoomIn 1.5s ease-in-out 0s 1 backwards; -moz-animation: zoomIn 1.5s ease-in-out 0s 1 backwards; animation: zoomIn 1.5s ease-in-out 0s 1 backwards; -moz-animation-direction: ease-in-out; -moz-animation-direction: ease-in-out; animation-direction: ease-in-out; -moz-animation-play-state: running; -moz-animation-play-state: running; animation-play-state: running; padding: 10px; width: 108px; height: 110px; color: #000000; opacity: 1; background-color: rgba(255,170,0,0.59); border-radius: 320px; box-shadow: 0px 0px 0px #000000; border: 1px solid #ffbf31;\"><div id=\"text-compnt-1428405572644-7221\" class=\"ng-binding\"></div></div></div></form></div><div class=\"swiper-slide-shadow-top\" style=\"opacity: 0; transition-duration: 0ms;\"></div><div class=\"swiper-slide-shadow-bottom\" style=\"opacity: 3; transition-duration: 0ms;\"></div></section></div></div></div><script src=\"/js/client-min.js?ver=1434352694277\"></script><!-- mockjs --><!-- 以下mockjs注释块内的引用在build后将会自动删除 --><link rel=\"stylesheet\" href=\"/css/scene.css\"><link rel=\"stylesheet\" href=\"/swiper/dist/css/swiper.css\" /><script src=\"/swiper/dist/js/swiper.js\"></script><script src=\"/scripts/client/a-tools.js\"></script><script src=\"/scripts/client/ajax.js\"></script><script src=\"/scripts/client/device.js\"></script><script src=\"/scripts/client/swipe.js\"></script><script src=\"/scripts/client/form.js\"></script><script src=\"/scripts/client/audio.js\"></script><script src=\"/scripts/client/init.js\"></script><script ssrc=\"http:/192.168.1.5:8089",
+		"/6s ease-in-out 0.6s 1 backwards; -moz-animation: bounceIn 1.6s ease-in-out 0.6s 1 backwards; animation: bounceIn 1.6s ease-in-out 0.6s 1 backwards; -moz-animation-direction: ease-in-out; -moz-animation-direction: ease-in-out; animation-direction: ease-in-out; -moz-animation-play-state: running; -moz-animation-play-state: running; animation-play-state: running; padding: 10px; width: 316px; height: 73px; color: #000000; opacity: 1; background-color: rgba(255,255,255,0); border-radius: 320px; box-shadow: 0px 0px 7px #ffffff; border: 0px solid #eeeeee; \"><div id=\"text-compnt-1428406878827-88811 \" class=\"ng-binding \"><span style=\"color: rgb(255, 165, 0); font-size: 32px; \"><b>水</b></span><span style=\"color: rgb(255, 165, 0); font-size: 22px; \">不在深，有龙&nbsp;</span><span style=\"color: rgb(0, 139, 139); font-size: 40px; background-color: rgb(255, 255, 0); \">则灵！</span></div></div></div></form></div><div class=\"swiper-slide-shadow-top \" style=\"opacity: 0; transition-duration: 0ms; \"></div><div class=\"swiper-slide-shadow-bottom \" style=\"opacity: 2; transition-duration: 0ms; \"></div></section><section class=\"page-item swiper-slide swiper-slide-duplicate \" data-swiper-slide-index=\"0 \" style=\"height: 480px; transform: translate3d(0px, 0px, -300px) rotateX(150deg) rotateY(0deg); z-index: -2; transition-duration: 0ms; \"><div class=\"page-bg \" style=\"background-image: url(http:/192.168.1.2:49907/uploads/7410-1e137jp.jpg); \"></div><span class=\"arrow \"></span><div class=\"page-content \"><form id=\"0 \" action=\"?unset \" target=\"_blank \" class=\"ng-pristine ng-valid \"><div class=\"component \" style=\"-webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); transform: rotate(0deg); top: 137px; left: 32px; z-index: 0; \"><div class=\"component-content text-tools-container animate-zoomInLeft \" style=\"overflow:hidden; -webkit-animation: zoomInLeft 1.8s ease-in-out 1s 1 backwards; -moz-animation: zoomInLeft 1.8s ease-in-out 1s 1 backwards; animation: zoomInLeft 1.8s ease-in-out 1s 1 backwards; -moz-animation-direction: ease-in-out; -moz-animation-direction: ease-in-out; animation-direction: ease-in-out; -moz-animation-play-state: running; -moz-animation-play-state: running; animation-play-state: running; padding: 39px; width: 243px; height: 244px; color: #ffffff; opacity: 1; background-color: rgba(197,8,150,0.63); border-radius: 320px; box-shadow: 0px 0px 13px #000000; border: 1px solid #ff008e; \"><div id=\"text-components-xxxx-00020 \" class=\"ng-binding \"><div class=\"wysiwyg-text-align-center \"><br><br><br>Hallo, <span style=\"font-size: 32px; \"><b>World！</b></span></div></div></div></div><div class=\"component \" style=\"-webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); transform: rotate(0deg); top: 68.796875px; left: 182.59375px; z-index: 1; \"><div class=\"component-content text-tools-container animate-zoomIn \" style=\"overflow:hidden; -webkit-animation: zoomIn 1.5s ease-in-out 0s 1 backwards; -moz-animation: zoomIn 1.5s ease-in-out 0s 1 backwards; animation: zoomIn 1.5s ease-in-out 0s 1 backwards; -moz-animation-direction: ease-in-out; -moz-animation-direction: ease-in-out; animation-direction: ease-in-out; -moz-animation-play-state: running; -moz-animation-play-state: running; animation-play-state: running; padding: 10px; width: 108px; height: 110px; color: #000000; opacity: 1; background-color: rgba(255,170,0,0.59); border-radius: 320px; box-shadow: 0px 0px 0px #000000; border: 1px solid #ffbf31; \"><div id=\"text-compnt-1428405572644-7221 \" class=\"ng-binding \"></div></div></div></form></div><div class=\"swiper-slide-shadow-top \" style=\"opacity: 0; transition-duration: 0ms; \"></div><div class=\"swiper-slide-shadow-bottom \" style=\"opacity: 3; transition-duration: 0ms; \"></div></section></div></div></div><script src=\"/js/client-min.js?ver=\"></script><!-- mockjs --><!-- 以下mockjs注释块内的引用在build后将会自动删除 --><link rel=\" stylesheet \" href=\"/css/scene.css \"><link rel=\"stylesheet \" href=\"/swiper/dist/css/swiper.css \" /><script src=\"/swiper/dist/js/swiper.js \"></script><script src=\"/scripts/client/a-tools.js \"></script><script src=\"/scripts/client/ajax.js \"></script><script src=\"/scripts/client/device.js \"></script><script src=\"/scripts/client/swipe.js \"></script><script src=\"/scripts/client/form.js \"></script><script src=\"/scripts/client/audio.js \"></script><script src=\"/scripts/client/init.js \"></script><script ssrc=\"http:/192.168.1.5:8089",
+		"/85, maximum-scale=1.0, user-scalable=0\">');} else {document.write('<meta id=\"viewport\" name=\"viewport\" content=\"width=320, initial-scale=1.0, maximum-scale=1.0, user-scalable=0\">');}var h5Domain = '';var siteDomain = '';var accountKey = 'test';var sceneId = 'xxx';function onpageload() {var loading = document.getElementById('ms-loading'),content = document.getElementById('ms-content');loading.style.opacity = 0;content.style.opacity = 1;setTimeout(function() {loading.style.display = 'none';loading = content = null;}, 1000);}setTimeout(onpageload, 10000);</script><title>抢红包啦</title><meta name=\"description\" content=\"\"><meta name=\"keywords\" content=\"场景应用,Magic Scenes,魔窗\"><link href=\"/css/scene-min.css?ver=\" rel=\"stylesheet\"><style type=\"text/css\">/* 为了避免在页面加载前显示空白，把loading所需样式直接写在这里 */.rotate,.rotate-ccw {-webkit-animation:rotate 2s infinite linear;animation: rotate 2s infinite linear;}.rotate-ccw {animation-direction: reverse;}.msFadeOut {-webkit-animation:fadeOut .4s 1 linear;animation: fadeOut .4s 1 linear;}.ms-loading {position: fixed;z-index: 999999999;background-color: rgba(0,0,0,0.9);left: 0;top: 0;width: 100%;height: 100%;-webkit-transition: opacity 1s;transition: opacity 1s;}.ms-loading .loading {position: absolute;left: 50%;top: 50%;box-sizing: border-box;width: 80px;height: 80px;padding: 0px;margin: -64px 0 0 -40px;border-radius: 100%;overflow: hidden;background-color: rgba(255,255,255,0.2);background-repeat: no-repeat;background-size: cover;background-position: center center;}.ms-loading .loading::after,.ms-loading .loading .rotating {content: ' ';width: 80px;height:80px;display: block;box-sizing: border-box;border-radius: 100%;border: 4px solid rgba(255,255,255,0);border-bottom-color: rgba(255,255,255,0.8);-webkit-animation:rotate 1s infinite linear;animation: rotate 1s infinite linear;}.ms-loading .loading figure,.ms-loading .loading figure img {box-sizing: border-box;width: 100%;height: 100%;}@-webkit-keyframes rotate {0% {-webkit-transform: rotate(0deg);}50% {-webkit-transform: rotate(180deg);}100% {-webkit-transform: rotate(360deg);}}@-moz-keyframes rotate {0% {-moz-transform: rotate(0deg);}50% {-moz-transform: rotate(180deg);}100% {-moz-transform: rotate(360deg);}}@keyframes rotate {0% {transform: rotate(0deg);}50% {transform: rotate(180deg);}100% {transform: rotate(360deg);}}</style>↵</head>↵<body onload=\"onpageload()\"><div class=\"ms-loading\" id=\"ms-loading\"><div class=\"loading\"style=\"background-image: url(/uploads/7410-1e137jp.jpg);\" ><div class=\"rotating\"></div></div></div><div id=\"musicplayer\" class=\"animated rotate infinite\" style=\"display: block\"><audio id=\"bg-music\" m=\"res/music/平凡之路.mp3\" src=\"/res/music/平凡之路.mp3\" loop autobuffer autoplay preload></audio><span class=\"icon bg-music-handle\"><img src=\"data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGhlaWdodD0iMzJweCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzIgMzI7IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lkdGg9IjMycHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxnIGlkPSJfeDM3X19tdXNpY19ub2RlIj48cGF0aCBkPSJNMjUuMjcxLDE5LjEwMmMwLjAwNi0wLjAxNiwwLjAxMy0wLjAyOSwwLjAyMS0wLjA0M2MwLjAwNC0wLjA1LDAuMDA4LTAuMTAxLDAuMDE1LTAuMTUyICAgYy0wLjAxMS0wLjAyOC0wLjAyMy0wLjA1Ni0wLjAzNC0wLjA4NGMtNC43NjItMi45NDMtNC4wODgtMTEuNjUxLTkuNjIzLTE0LjczN2MtMC4xODEtMC4xMDMtMC4zNTgtMC4xNC0wLjUzNC0wLjE1MyAgIGMtMC4wNjEtMC4wMTUtMC4xMTktMC4wMzgtMC4xODYtMC4wMzhjLTAuNDQyLDAtMC44MDIsMC4zNi0wLjgwMiwwLjgwM3YxNy40NjZjLTAuNzg5LTAuNTAyLTEuNzk4LTAuODE2LTIuOTE2LTAuODE2ICAgYy0yLjQ5NiwwLTQuNTIxLDEuNTE0LTQuNTIxLDMuMzhzMi4wMjQsMy4zOCw0LjUyMSwzLjM4YzIuNDk3LDAsNC41MjEtMS41MTQsNC41MjEtMy4zOGMwLTAuMDE0LTAuMDA1LTAuMDI1LTAuMDA1LTAuMDM5ICAgYzAuMDAxLTAuMDEsMC4wMDUtMC4wMTcsMC4wMDUtMC4wMjZWMTEuMDg0YzIuNjI2LDEuNjQ2LDIuNjkxLDYuMjAyLDYuMjM5LDcuNzY1YzAuNDc0LDAuMjE3LDEuMzI0LDAuMzY4LDIuMTg5LDAuNDg2ICAgYzAuMTA0LTAuMDA1LDAuMi0wLjAxNSwwLjMwNS0wLjAxNWMwLjA2LDAsMC4xMTIsMC4wMDYsMC4xNjksMC4wMDhjMC4wODgtMC4wMTcsMC4xODQtMC4wMjUsMC4yNzMtMC4wMzkgICBDMjUuMDI1LDE5LjIyMiwyNS4xNDcsMTkuMTYsMjUuMjcxLDE5LjEwMnoiLz48L2c+PC9zdmc+\"></span></div><div id=\"ms-content\" style=\"opacity:0; transition: opacity 0.3s;\"><div id=\"scene\" class=\"scene swiper-container swiper-container-vertical swiper-container-3d swiper-container-coverflow\"><div class=\"page-list swiper-wrapper\" style=\"transition-duration: 0ms; transform: translate3d(0px, -480px, 0px);\"><section class=\"page-item swiper-slide swiper-slide-duplicate swiper-slide-prev\" data-swiper-slide-index=\"2\" styl… -webkit-animation: bounceIn 1.6s ease-in-out 0.6s 1 backwards; -moz-animation: bounceIn 1.6s ease-in-out 0.6s 1 backwards; animation: bounceIn 1.6s ease-in-out 0.6s 1 backwards; -moz-animation-direction: ease-in-out; -moz-animation-direction: ease-in-out; animation-direction: ease-in-out; -moz-animation-play-state: running; -moz-animation-play-state: running; animation-play-state: running; padding: 10px; width: 316px; height: 73px; color: #000000; opacity: 1; background-color: rgba(255,255,255,0); border-radius: 320px; box-shadow: 0px 0px 7px #ffffff; border: 0px solid #eeeeee;\"><div id=\"text-compnt-1428406878827-88811\" class=\"ng-binding\"><span style=\"color: rgb(255, 165, 0); font-size: 32px;\"><b>水</b></span><span style=\"color: rgb(255, 165, 0); font-size: 22px;\">不在深，有龙&nbsp;</span><span style=\"color: rgb(0, 139, 139); font-size: 40px; background-color: rgb(255, 255, 0);\">则灵！</span></div></div></div></form></div><div class=\"swiper-slide-shadow-top\" style=\"opacity: 0; transition-duration: 0ms;\"></div><div class=\"swiper-slide-shadow-bottom\" style=\"opacity: 2; transition-duration: 0ms;\"></div></section><section class=\"page-item swiper-slide swiper-slide-duplicate\" data-swiper-slide-index=\"0\" style=\"height: 480px; transform: translate3d(0px, 0px, -300px) rotateX(150deg) rotateY(0deg); z-index: -2; transition-duration: 0ms;\"><div class=\"page-bg\" style=\"background-image: url(http:/192.168.1.2:49907/uploads/7410-1e137jp.jpg);\"></div><span class=\"arrow\"></span><div class=\"page-content\"><form id=\"0\" action=\"?unset\" target=\"_blank\" class=\"ng-pristine ng-valid\"><div class=\"component\" style=\"-webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); transform: rotate(0deg); top: 137px; left: 32px; z-index: 0;\"><div class=\"component-content text-tools-container animate-zoomInLeft\" style=\"overflow:hidden; -webkit-animation: zoomInLeft 1.8s ease-in-out 1s 1 backwards; -moz-animation: zoomInLeft 1.8s ease-in-out 1s 1 backwards; animation: zoomInLeft 1.8s ease-in-out 1s 1 backwards; -moz-animation-direction: ease-in-out; -moz-animation-direction: ease-in-out; animation-direction: ease-in-out; -moz-animation-play-state: running; -moz-animation-play-state: running; animation-play-state: running; padding: 39px; width: 243px; height: 244px; color: #ffffff; opacity: 1; background-color: rgba(197,8,150,0.63); border-radius: 320px; box-shadow: 0px 0px 13px #000000; border: 1px solid #ff008e;\"><div id=\"text-components-xxxx-00020\" class=\"ng-binding\"><div class=\"wysiwyg-text-align-center\"><br><br><br>Hallo, <span style=\"font-size: 32px;\"><b>World！</b></span></div></div></div></div><div class=\"component\" style=\"-webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); transform: rotate(0deg); top: 68.796875px; left: 182.59375px; z-index: 1;\"><div class=\"component-content text-tools-container animate-zoomIn\" style=\"overflow:hidden; -webkit-animation: zoomIn 1.5s ease-in-out 0s 1 backwards; -moz-animation: zoomIn 1.5s ease-in-out 0s 1 backwards; animation: zoomIn 1.5s ease-in-out 0s 1 backwards; -moz-animation-direction: ease-in-out; -moz-animation-direction: ease-in-out; animation-direction: ease-in-out; -moz-animation-play-state: running; -moz-animation-play-state: running; animation-play-state: running; padding: 10px; width: 108px; height: 110px; color: #000000; opacity: 1; background-color: rgba(255,170,0,0.59); border-radius: 320px; box-shadow: 0px 0px 0px #000000; border: 1px solid #ffbf31;\"><div id=\"text-compnt-1428405572644-7221\" class=\"ng-binding\"></div></div></div></form></div><div class=\"swiper-slide-shadow-top\" style=\"opacity: 0; transition-duration: 0ms;\"></div><div class=\"swiper-slide-shadow-bottom\" style=\"opacity: 3; transition-duration: 0ms;\"></div></section></div></div></div><script src=\"/js/client-min.js?ver=\"></script><!-- mockjs --><!-- 以下mockjs注释块内的引用在build后将会自动删除 --><link rel=\"stylesheet\" href=\"/css/scene.css\"><link rel=\"stylesheet\" href=\"/swiper/dist/css/swiper.css\" /><script src=\"/swiper/dist/js/swiper.js\"></script><script src=\"/scripts/client/a-tools.js\"></script><script src=\"/scripts/client/ajax.js\"></script><script src=\"/scripts/client/device.js\"></script><script src=\"/scripts/client/swipe.js\"></script><script src=\"/scripts/client/form.js\"></script><script src=\"/scripts/client/audio.js\"></script><script src=\"/scripts/client/init.js\"></script><script ssrc=\"http:/192.168.1.5:8089",
+		"/Users/colin/Projects/magicscenes/libs/angular-md5/package.json",
+		"/168.1.5:8089",
+		"/Users/colin/Projects/magicscenes/app/configs/page-translate.json",
+		"/168.8.4:60460",
+		"/85, maximum-scale=1.0, user-scalable=0\">');} else {document.write('<meta id=\"viewport\" name=\"viewport\" content=\"width=320, initial-scale=1.0, maximum-scale=1.0, user-scalable=0\">');}var h5Domain = '';var siteDomain = '';var accountKey = 'test';var sceneId = 'xxx';function onpageload() {var loading = document.getElementById('ms-loading'),content = document.getElementById('ms-content');loading.style.opacity = 0;content.style.opacity = 1;setTimeout(function() {loading.style.display = 'none';loading = content = null;}, 1000);}setTimeout(onpageload, 10000);</script><title>抢红包啦</title><meta name=\"description\" content=\"\"><meta name=\"keywords\" content=\"场景应用,Magic Scenes,魔窗\"><link href=\"/css/scene-min.css\" rel=\"stylesheet\"><style type=\"text/css\">/* 为了避免在页面加载前显示空白，把loading所需样式直接写在这里 */.rotate,.rotate-ccw {-webkit-animation:rotate 2s infinite linear;animation: rotate 2s infinite linear;}.rotate-ccw {animation-direction: reverse;}.msFadeOut {-webkit-animation:fadeOut .4s 1 linear;animation: fadeOut .4s 1 linear;}.ms-loading {position: fixed;z-index: 999999999;background-color: rgba(0,0,0,0.9);left: 0;top: 0;width: 100%;height: 100%;-webkit-transition: opacity 1s;transition: opacity 1s;}.ms-loading .loading {position: absolute;left: 50%;top: 50%;box-sizing: border-box;width: 80px;height: 80px;padding: 0px;margin: -32px 0 0 -32px;border-radius: 100%;overflow: hidden;background-color: #13C5C5;background-repeat: no-repeat;background-size: cover;background-position: center center;}.ms-loading .loading::after,.ms-loading .loading .rotating {content: ' ';width: 80px;height:80px;display: block;box-sizing: border-box;border-radius: 100%;border: 4px solid rgba(255,255,255,0);border-bottom-color: rgba(255,255,255,0.8);-webkit-animation:rotate 1s infinite linear;animation: rotate 1s infinite linear;}.ms-loading .loading figure,.ms-loading .loading figure img {box-sizing: border-box;width: 100%;height: 100%;}@-webkit-keyframes rotate {0% {-webkit-transform: rotate(0deg);}50% {-webkit-transform: rotate(180deg);}100% {-webkit-transform: rotate(360deg);}}@-moz-keyframes rotate {0% {-moz-transform: rotate(0deg);}50% {-moz-transform: rotate(180deg);}100% {-moz-transform: rotate(360deg);}}@keyframes rotate {0% {transform: rotate(0deg);}50% {transform: rotate(180deg);}100% {transform: rotate(360deg);}}</style>↵</head>↵<body onload=\"onpageload()\"><div class=\"ms-loading\" id=\"ms-loading\"><div class=\"loading\"style=\"background-image: url(/uploads/7410-1e137jp.jpg);\" ><div class=\"rotating\"></div></div></div><div id=\"musicplayer\" class=\"animated rotate infinite\" ng-if=\"sceneData.music\"><audio id=\"bg-music\" m=\"res/music/平凡之路.mp3\" src=\"/res/music/平凡之路.mp3\" loop autobuffer autoplay preload></audio><span class=\"icon bg-music-handle\"><img src=\"data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGhlaWdodD0iMzJweCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzIgMzI7IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lkdGg9IjMycHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxnIGlkPSJfeDM3X19tdXNpY19ub2RlIj48cGF0aCBkPSJNMjUuMjcxLDE5LjEwMmMwLjAwNi0wLjAxNiwwLjAxMy0wLjAyOSwwLjAyMS0wLjA0M2MwLjAwNC0wLjA1LDAuMDA4LTAuMTAxLDAuMDE1LTAuMTUyICAgYy0wLjAxMS0wLjAyOC0wLjAyMy0wLjA1Ni0wLjAzNC0wLjA4NGMtNC43NjItMi45NDMtNC4wODgtMTEuNjUxLTkuNjIzLTE0LjczN2MtMC4xODEtMC4xMDMtMC4zNTgtMC4xNC0wLjUzNC0wLjE1MyAgIGMtMC4wNjEtMC4wMTUtMC4xMTktMC4wMzgtMC4xODYtMC4wMzhjLTAuNDQyLDAtMC44MDIsMC4zNi0wLjgwMiwwLjgwM3YxNy40NjZjLTAuNzg5LTAuNTAyLTEuNzk4LTAuODE2LTIuOTE2LTAuODE2ICAgYy0yLjQ5NiwwLTQuNTIxLDEuNTE0LTQuNTIxLDMuMzhzMi4wMjQsMy4zOCw0LjUyMSwzLjM4YzIuNDk3LDAsNC41MjEtMS41MTQsNC41MjEtMy4zOGMwLTAuMDE0LTAuMDA1LTAuMDI1LTAuMDA1LTAuMDM5ICAgYzAuMDAxLTAuMDEsMC4wMDUtMC4wMTcsMC4wMDUtMC4wMjZWMTEuMDg0YzIuNjI2LDEuNjQ2LDIuNjkxLDYuMjAyLDYuMjM5LDcuNzY1YzAuNDc0LDAuMjE3LDEuMzI0LDAuMzY4LDIuMTg5LDAuNDg2ICAgYzAuMTA0LTAuMDA1LDAuMi0wLjAxNSwwLjMwNS0wLjAxNWMwLjA2LDAsMC4xMTIsMC4wMDYsMC4xNjksMC4wMDhjMC4wODgtMC4wMTcsMC4xODQtMC4wMjUsMC4yNzMtMC4wMzkgICBDMjUuMDI1LDE5LjIyMiwyNS4xNDcsMTkuMTYsMjUuMjcxLDE5LjEwMnoiLz48L2c+PC9zdmc+\"></span></div><div id=\"ms-content\" style=\"opacity:0; transition: opacity 0.3s;\"><div id=\"scene\" class=\"scene swiper-container swiper-container-vertical swiper-container-3d swiper-container-cube\"><div class=\"page-list swiper-wrapper\" style=\"transform-origin: 50% 50% -240px; transform: translate3d(0px, 0px, 0px) rotateX(90deg) rotateY(0deg); transition-duration: 0ms;\"><section class=\"page-item swiper-slide swiper-slide-duplicate swiper-slide-p…n-out 0.6s 1 backwards; animation: bounceIn 1.6s ease-in-out 0.6s 1 backwards; -moz-animation-direction: ease-in-out; -moz-animation-direction: ease-in-out; animation-direction: ease-in-out; -moz-animation-play-state: running; -moz-animation-play-state: running; animation-play-state: running; padding: 10px; width: 316px; height: 73px; color: #000000; opacity: 1; background-color: rgba(255,255,255,0); border-radius: 320px; box-shadow: 0px 0px 7px #ffffff; border: 0px solid #eeeeee;\"><div id=\"text-compnt-1428406878827-88811\" class=\"ng-binding\"><span style=\"color: rgb(255, 165, 0); font-size: 32px;\"><b>水</b></span><span style=\"color: rgb(255, 165, 0); font-size: 22px;\">不在深，有龙&nbsp;</span><span style=\"color: rgb(0, 139, 139); font-size: 40px; background-color: rgb(255, 255, 0);\">则灵！</span></div></div></div></form></div><div class=\"swiper-slide-shadow-top\" style=\"transition-duration: 0ms; opacity: 2;\"></div><div class=\"swiper-slide-shadow-bottom\" style=\"transition-duration: 0ms; opacity: -2;\"></div></section><section class=\"page-item swiper-slide swiper-slide-duplicate\" data-swiper-slide-index=\"0\" style=\"height: 480px; transform: rotateX(-360deg) rotateY(0deg) translate3d(0px, -1920px, 0px); transition-duration: 0ms;\"><div class=\"page-bg\" style=\"background-image: url(http:/192.168.8.4:60460/uploads/7410-1e137jp.jpg);\"></div><span class=\"arrow\"></span><div class=\"page-content\"><form id=\"0\" action=\"?unset\" target=\"_blank\" class=\"ng-pristine ng-valid\"><div class=\"component\" style=\"-webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); transform: rotate(0deg); top: 137px;left: 32px;z-index: 0;\"><div class=\"component-content text-tools-container animate-zoomInLeft\" style=\"overflow:hidden; -webkit-animation: zoomInLeft 1.8s ease-in-out 1s 1 backwards; -moz-animation: zoomInLeft 1.8s ease-in-out 1s 1 backwards; animation: zoomInLeft 1.8s ease-in-out 1s 1 backwards; -moz-animation-direction: ease-in-out; -moz-animation-direction: ease-in-out; animation-direction: ease-in-out; -moz-animation-play-state: running; -moz-animation-play-state: running; animation-play-state: running; padding: 39px; width: 243px; height: 244px; color: #ffffff; opacity: 1; background-color: rgba(197,8,150,0.63); border-radius: 320px; box-shadow: 0px 0px 13px #000000; border: 1px solid #ff008e;\"><div id=\"text-components-xxxx-00020\" class=\"ng-binding\"><div class=\"wysiwyg-text-align-center\"><br><br><br>Hallo, <span style=\"font-size: 32px;\"><b>World！</b></span></div></div></div></div><div class=\"component\" style=\"-webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); transform: rotate(0deg); top: 68.796875px;left: 182.59375px;z-index: 1;\"><div class=\"component-content text-tools-container animate-zoomIn\" style=\"overflow:hidden; -webkit-animation: zoomIn 1.5s ease-in-out 0s 1 backwards; -moz-animation: zoomIn 1.5s ease-in-out 0s 1 backwards; animation: zoomIn 1.5s ease-in-out 0s 1 backwards; -moz-animation-direction: ease-in-out; -moz-animation-direction: ease-in-out; animation-direction: ease-in-out; -moz-animation-play-state: running; -moz-animation-play-state: running; animation-play-state: running; padding: 10px; width: 108px; height: 110px; color: #000000; opacity: 1; background-color: rgba(255,170,0,0.59); border-radius: 320px; box-shadow: 0px 0px 0px #000000; border: 1px solid #ffbf31;\"><div id=\"text-compnt-1428405572644-7221\" class=\"ng-binding\"></div></div></div></form></div><div class=\"swiper-slide-shadow-top\" style=\"transition-duration: 0ms; opacity: 3;\"></div><div class=\"swiper-slide-shadow-bottom\" style=\"transition-duration: 0ms; opacity: -3;\"></div></section></div><div class=\"swiper-cube-shadow\" style=\"transform: scale3d(0.94, 1, 0.94) translate3d(0px, 260px, -255.319px) rotateX(-90deg); transition-duration: 0ms;\"></div></div></div><script src=\"/js/client-min.js\"></script><!-- mockjs --><link rel=\"stylesheet\" href=\"/css/scene.css\"><link rel=\"stylesheet\" href=\"/swiper/dist/css/swiper.css\" /><script src=\"/swiper/dist/js/swiper.js\"></script><script src=\"/scripts/client/a-tools.js\"></script><script src=\"/scripts/client/ajax.js\"></script><script src=\"/scripts/client/device.js\"></script><script src=\"/scripts/client/swipe.js\"></script><script src=\"/scripts/client/form.js\"></script><script src=\"/scripts/client/audio.js\"></script><script src=\"/scripts/client/init.js\"></script><script ssrc=\"http:/192.168.1.5:8089",
+		"/Users/colin/Projects/magicscenes/app/scripts/client/swipe.origin.js",
+		"/Users/colin/Projects/magicscenes/app/configs/animations.json",
+		"/Users/colin/Projects/magicscenes/app/components/video-tools/editor.html",
+		"/Users/colin/Projects/magicscenes/app/scripts/scene.svc.js",
+		"/Users/colin/Projects/magicscenes/.tuiconf",
+		"/Users/colin/Projects/magicscenes/.sshconf",
+		"/Users/colin/.oh-my-zsh/oh-my-zsh.sh",
+		"/tmpl.html\",controller:[\"$scope\",function(a){a.$root.templateMode=!1,a.$root.role=\"null\"}]}).state(\"scene\",{url:\"/scene/:sceneId\",views:{\"\":{templateUrl:\"views/scene.tmpl.html\",controller:[\"$rootScope\",\"$scope\",\"$stateParams\",\"$state\",function(a,b,c){b.$root.templateMode=!1,b.$root.sceneId=APP.sceneId=c.sceneId,a.loadScene(c.sceneId)}]},\"hint@\":{template:' This is contacts.detail.item overriding the \"hint\" ui-view'}}})}]),\"undefined\"!=typeof Mock&&\"function\"==typeof Mock.mockjax&&Mock.mockjax(APP),angular.module(\"ms.sceneService\",[\"ngResource\"]).factory(\"sceneService\",[\"$resource\",function(a){var b={},c=APIS.staticTemplatePath,d=APIS.dynamicTemplatePath,e=APIS.formsTemplatePath,f=APIS.myImagesUrl,g=APIS.myBgImagesUrl,h=APIS.myMusicUrl,i=APIS.toolsPath,j=APIS.animationsUrl,k=APIS.imageLibUrl,l=APIS.bgImageLibUrl,m=APIS.componentsTplUrl,n=APIS.musicLibUrl,o=(APIS.h5SiteDomain,APIS.serverConfig),p=(APIS.h5Domain,APIS.sceneUrl);return b.tools=a(i,{},{query:{method:\"GET\",params:{geekId:\"list\"},isArray:!0}}),b.animationsSrc=a(j,{},{query:{method:\"GET\",params:{geekId:\"list\"},isArray:!1}}),b.serverConfig=a(o,{},{query:{method:\"GET\",isArray:!1}}),b.animationsSrc=a(j,{},{query:{method:\"GET\",params:{geekId:\"list\"},isArray:!1}}),b.componentsTplSrc=a(m,{},{query:{method:\"GET\",params:{},isArray:!1}}),b.staticTemplates=a(c,{},{query:{method:\"GET\",params:{geekId:\"list\"},isArray:!0}}),b.dynamicTemplates=a(d,{},{query:{method:\"GET\",params:{geekId:\"list\"},isArray:!0}}),b.formsTemplates=a(e,{},{query:{method:\"GET\",params:{geekId:\"list\"},isArray:!0}}),b.dataPoster=function(b){var c=p.replace(\"{SCENE_ID}\",b);return c+=\"?accountKey=\"+APP.getParams(\"accountKey\"),a(c,{},{query:{method:\"GET\",params:{},isArray:!1}})},b.myImagesSrc=a(f,{},{query:{method:\"GET\",params:{accountKey:APP.getParams(\"accountKey\")},isArray:!0}}),b.imageLibSrc=a(k,{},{query:{method:\"GET\",params:{},isArray:!0}}),b.myBgImagesSrc=a(g,{},{query:{method:\"GET\",params:{accountKey:APP.getParams(\"accountKey\")},isArray:!0}}),b.bgImageLibSrc=a(l,{},{query:{method:\"GET\",params:{},isArray:!0}}),b.myMusicSrc=a(h,{},{query:{method:\"GET\",params:{accountKey:APP.getParams(\"accountKey\")},isArray:!0}}),b.musicLibSrc=a(n,{},{query:{method:\"GET\",params:{},isArray:!0}}),b.createPage=function(b){if(!b)throw new Error(\"misses scene is when create page for it.\");var c=\"/data/scene/\"+b+\"/create-page\";return a(c,{},{query:{method:\"GET\",params:{},isArray:!1}})},b}]),angular.module(\"ms.sceneService\").factory(\"msDialog\",[\"$mdDialog\",\"$http\",\"$templateCache\",function(a,b,c){var d=function(a){this.config=angular.extend({},{title:\"添加组件\",icon:\"\",templateUrl:\"\",actions:!0,ok:\"确定\",cancel:\"取消\",targetEvent:null,template:'<md-dialog class=\"{{ conf.className }} md-default-theme\" md-theme=\"{{ conf.theme }}\" aria-label=\"{{ ariaLabel }}\">  <md-content style=\"min-width:{{ conf.width }}px;\">    <md-subheader class=\"md-sticky-no-effect\">      <ng-md-icon ng-if=\"conf.icon\" icon=\"{{ conf.icon }}\"></ng-md-icon>      <em>{{ conf.title }}</em>    </md-subheader>    [[CONTENT]]  </md-content>  <div ng-if=\"actions\" class=\"md-actions\">    <md-button ng-if=\"conf.cancel!==false\" ng-click=\"closeDialog()\">{{ conf.cancel }}</md-button>    <md-button ng-if=\"conf.ok!==false\" ng-click=\"done()\" class=\"md-primary\">{{ conf.ok }}</md-button>  </div></md-dialog>',controller:angular.noop,onComplete:angular.noop,hasBackdrop:!0,disableParentScroll:!0,clickOutsideToClose:!0,escapeToClose:!0,locals:{ok:\"OK\",cancel:\"CANCEL\"}},a),this.controller=a.controller,delete this.config.controller};return d.prototype={show:function(){var a=this,b=this.config;return b.controller=[\"$scope\",\"$mdDialog\",function(c,d){c.conf=b,c.ok=b.ok,c.title=b.title,c.cancel=b.cancel,c.actions=b.actions,c.closeDialog=function(){d.cancel(),angular.isFunction(b.onCancel)&&b.onCancel(c)},c.done=function(){d.hide(),angular.isFunction(b.onOk)&&b.onOk(c)},angular.isFunction(a.controller)?a.controller.apply(c,arguments):angular.isArray(a.controller)&&angular.isFunction(a.controller[a.controller.length-1])&&a.controller[a.controller.length-1].apply(c,arguments)}],this.template?this.showDialog():this.loadHtmlTemplate(),this},close:function(){a.hide()},hide:function(){a.hide()},showDialog:function(){var b=this.config;b.template=b.template.replace(\"[[CONTENT]]\",this.template),delete b.templateUrl,this.$mdDialog=a.show(b).then(function(){},function(){})[\"finally\"](function(){angular.isFunction(b.onFinally)&&b.onFinally()})},loadHtmlTemplate:function(){var a=this,d=this.config,e=c.get(d.templateUrl);e?(this.template=e,this.showDialog()):b({method:\"GET\",url:d.templateUrl}).success(function(b){c.put(d.templateUrl,b),a.template=b,a.showDialog()}).error(function(){})}},{create:function(a){return new d(a)}}}]),angular.module(\"ms\").controller(\"uploaderController\",[\"$rootScope\",\"$scope\",\"ngDialog\",\"FileUploader\",function(a,b,c,d){var e=b.uploader=new d({alias:\"fileStream\",url:b.uploaderUrl,formData:[{uploadType:a.templateMode?\"$TEMPLATE\":APP.getParams(\"uploadType\")||\"\"},{accountKey:APP.getParams(\"accountKey\")},{type:b.uploaderType||\"img\"}]});e.filters.push({name:\"customFilter\",fn:function(){return this.queue.length<50}}),b.removeItem=function(a){a.isRemoved=!0,setTimeout(function(){a.remove(),b.$apply()},400)},e.onSuccessItem=function(a,c){angular.isFunction(b.onItemUploadSuccess)&&b.onItemUploadSuccess(a,c)},e.onErrorItem=function(){},e.onCompleteAll=function(){c.openConfirm({showClose:!1,template:'  <p>全部图片上传成功.</p>  <div class=\"ngdialog-buttons\">      <md-button class=\"ngdialog-button md-button md-raised md-primary md-dafault-theme\" ng-click=\"confirm(0)\">完成</md-button>      <md-button class=\"ngdialog-button md-button md-raised md-dafault-theme\" ng-click=\"confirm(1)\">继续上传</md-button>  </div>',plain:!0,controller:[\"$scope\",function(a){a.confirm=function(c){c?e.clearQueue():(e.clearQueue(),e.destroy(),a.closeThisDialog(),b.closeThisDialog()),a.$parent&&a.$parent.confirm(c)}}]})},b.controller={isImage:function(a){var b=\"|\"+a.type.slice(a.type.lastIndexOf(\"/\")+1)+\"|\";return-1!==\"|jpg|png|jpeg|bmp|gif|\".indexOf(b)}}}]).directive(\"ngThumb\",[\"$window\",function(a){var b={support:!(!a.FileReader||!a.CanvasRenderingContext2D),isFile:function(b){return angular.isObject(b)&&b instanceof a.File},isImage:function(a){var b=\"|\"+a.type.slice(a.type.lastIndexOf(\"/\")+1)+\"|\";return-1!==\"|jpg|png|jpeg|bmp|gif|\".indexOf(b)}};return{restrict:\"A\",template:\"<canvas/>\",link:function(a,c,d){function e(a){var b=new Image;b.onload=f,b.src=a.target.result}function f(){var a,b,c,d,e=g.width||this.width/this.height*g.height,f=g.height||this.height/this.width*g.width,i=g.fillWidth||e/f*g.fillHeight,j=g.fillHeight||f/e*g.fillWidth;i/j>e/f?(a=i,b=i/e*f):(a=j/f*e,b=j),c=0-(a-i)/2,d=0-(b-j)/2,h.attr({width:g.fillWidth||e,height:g.fillHeight||f}),h[0].getContext(\"2d\").drawImage(this,c,d,a,b)}if(b.support){var g=a.$eval(d.ngThumb);if(b.isFile(g.file)&&b.isImage(g.file)){var h=c.find(\"canvas\"),i=new FileReader;i.onload=e,i.readAsDataURL(g.file)}}}}}]),angular.module(\"ms.scene\",[\"ui.router\",\"ngMaterial\",\"angularFileUpload\",\"ngDialog\",\"ngMdIcons\",\"ngMessages\",\"vAccordion\"]).controller(\"sceneController\",[\"$rootScope\",\"$scope\",\"$document\",\"$timeout\",\"$http\",\"$templateCache\",\"$cacheFactory\",\"$mdToast\",\"$mdDialog\",\"ngDialog\",\"sceneService\",\"componentEditorService\",function(a,b,c,d,e,f,g,h,i,j,k,l){a.imageLib=[],a.myImages=[],a.musicLib=[],a.myMusic=[],a.componentsTpl={},a.myImagesMap={},a.componentEditorService=l,a.loadScene=function(b){var c=k.dataPoster(b).get();c.$promise.then(function(b){var c=b.data||b;c.pages=c.pages||[],0===c.pages.length&&c.pages.push({id:a.createPageId(c.id),name:\"未命名页面\",components:[]}),a.sceneData=c,a.cacheComponentContentAsTemplate(c)})},k.animationsSrc.get().$promise.then(function(b){var c=b.data||b;a.animations=c,a.enterAnimations=c.enter,a.leaveAnimations=c.out,a.animationPathLabels=c.animationPathLabels}),k.serverConfig.get().$promise.then(function(b){b.config&&(a.serverConfig=b.config,SERVER.domain=b.config.h5Domain,SERVER.siteDomain=b.config.siteDomain)});var m=k.componentsTplSrc.get();m.$promise.then(function(b){var c,d=b.data||b;a.componentsTplUrl=a.componentsTplUrl||{};for(var e in d)c=e+\"-tpl.html\",a.componentsTplUrl[e]=c;a.componentsTpl=d});var n=k.myImagesSrc.query();n.$promise.then(function(b){a.myImages=b.data||b});var o=k.imageLibSrc.get();o.$promise.then(function(b){a.imageLib=b.data||b});var p=k.myBgImagesSrc.query();p.$promise.then(function(b){a.myBgImages=b.data||b});var q=k.bgImageLibSrc.get();q.$promise.then(function(b){a.bgImageLib=b.data||b});var r=k.myMusicSrc.query();r.$promise.then(function(b){a.myMusicData=b.data||b});var s=k.musicLibSrc.get();s.$promise.then(function(b){a.musicLibData=b.data||b}),a.currentPage=0,angular.extend(a,{toolsAllowedCacheContent:[\"text-tools\",\"video-tools\"],clearHtml:function(b){var c=[],d=[];$.each(b,function(b,e){var f=e.nodeType;8===f?c.push(e):3===f?\"\"===e.nodeValue.replace(/\\s+/,\"\")&&c.push(e):1===f&&(a.clearHtml(e.childNodes),$.each(e.classList,function(a,b){\"ng-scope\"===b&&(1===e.classList.length?e.removeAttribute(\"class\"):e.classList.remove(b))}),\"a\"===e.nodeName.toLowerCase()&&$(e).attr(\"data-href\")&&($(e).attr(\"href\",$(e).attr(\"data-href\")),$(e).removeAttr(\"data-href\")),$.each(e.attributes,function(a,b){(b.nodeName.match(/ng-/)||\"html-include\"===b.nodeName)&&d.push(b)}))}),$.each(c,function(a,b){b.parentNode.removeChild(b)}),$.each(d,function(a,b){b.ownerElement.removeAttribute(b.nodeName)})},showTemplateEditor:function(a){i.show({controller:\"uploadTemplateController\",templateUrl:\"views/upload-template.tpl.html\",targetEvent:a}).then(function(a){b.alert='You said the information was \"'+a+'\".'},function(){b.alert=\"You cancelled the dialog.\"})},savePageAsTemplate:function(){var a=\"/save-template/\";e.post(a,function(){j.openConfirm({plain:!0,template:'  <p>保存模板成功.</p>  <div class=\"ngdialog-buttons\">      <md-button class=\"ngdialog-button md-button md-raised md-primary md-dafault-theme\" ng-click=\"confirm(0)\">确定</md-button>  </div>'})})},save:function(b){var c=a.sceneData,d=APIS.sceneSave.replace(\"{SCENE_ID}\",c.id),f=JSON.stringify(c,function(a,b){switch(a){case\"$$hashKey\":return void 0;default:return b}},4);e.post(d,{accountKey:APP.getParams(\"accountKey\"),sceneId:c.id,content:f}).success(function(c){angular.isFunction(b)?b(c):b!==!1&&a.showSaveResult(c)})},showSaveResult:function(a){j.openConfirm({plain:!0,template:\"  <p>\"+(a?a.message||\"保存成功\":\"保存成功\")+'</p>  <div class=\"ngdialog-buttons\">      <md-button class=\"ngdialog-button md-button md-raised md-primary md-dafault-theme\" ng-click=\"confirm(0)\">确定</md-button>  </div>'})},preview:function(b){b===!0?(a.scenePreviewMode=!1,$(\".preview-controls\").hide(),$(\".playground>.page-list\").removeClass(\"animated pushOutLeft\").addClass(\"animated pullInLeft\"),$(\".playground>.page-templates\").removeClass(\"animated pushOutRight\").addClass(\"animated pullInRight\")):a.scenePreviewMode||(a.generateHtml(),a.scenePreviewMode=!0,a.previewBox=SCENE.sceneSwipe(),$(\".playground>.page-list\").removeClass(\"animated pullInLeft\").addClass(\"animated pushOutLeft\"),$(\".playground>.page-templates\").removeClass(\"animated pullInRight\").addClass(\"animated pushOutRight\"))},exitPreviewMode:function(){a.preview(!0)},getBgImgAttr:function(a){var b=' style=\"background-image: url({URL});\" ',c=this.fillAbsoluteUrl(a);return b.replace(\"{URL}\",c)},fillAbsoluteUrl:function(a){return a&&(a.match(/^http(s)?:/)||a.match(/^\\/))?a:\"/\"+a},generateHtml:function(){var b=$(\"<div></div>\"),d=c.find(\"#preview-box\").html();return b.html(d),a.clearHtml(b[0].childNodes),d=a.releasedHtml=b.html()},publish:function(){var b,c=a.sceneData,d=APIS.sceneRelease.replace(\"{SCENE_ID}\",c.id);a.generateHtml(),b=$(\"#releasedScene\").val(),b=b.replace(/\\s{2,}/g,\"\").replace(/\\&lt\\;/g,\"<\").replace(/\\&amp\\;/g,\"&\").replace(/\\&gt\\;/g,\">\"),this.save(function(){h.show(h.simple().content(\"Simple Toast!\").position(\"right top\").hideDelay(3e3)),e.post(d,{accountKey:APP.getParams(\"accountKey\"),sceneId:c.id,html:b})})},cacheComponentContentAsTemplate:function(b){var c=a.toolsAllowedCacheContent;angular.forEach(b.pages,function(a){angular.forEach(a.components,function(d){if(-1!==c.indexOf(d.type)){var e=[b.id,a.id,d.id,\"content\"].join(\"/\");f.put(e,d.propertices.text)}})})},updateComponentContentAsTemplate:function(){var b=a.toolsAllowedCacheContent;a.sceneData&&angular.forEach(a.sceneData.pages,function(c){angular.forEach(c.components,function(d){if(-1!==b.indexOf(d.type)){var e=[a.sceneData.id,c.id,d.id,\"content\"].join(\"/\");f.remove(e),f.put(e,d.propertices.text)}})})},putComponentContentAsTemplate:function(b,c){var d=[a.sceneData.id,b.id,c.id,\"content\"].join(\"/\");f.put(d,c.propertices.text)},getComponentTemplateUrl:function(b){var c;return angular.forEach(a.sceneData.pages,function(d){angular.forEach(d.components,function(e){b.id===e.id&&(c=[a.sceneData.id,d.id,e.id,\"content\"].join(\"/\"))})}),c}}),angular.extend(b,{})}]).controller(\"page-templates\",[\"$rootScope\",\"$scope\",\"$http\",\"$mdDialog\",\"sceneService\",function(a,b,c,d,e){var f=e.staticTemplates.get();f.$promise.then(function(a){b.staticTemplates=a.data});var g=e.dynamicTemplates.get();g.$promise.then(function(a){b.dynamicTemplates=a.data});var h=e.formsTemplates.get();h.$promise.then(function(a){b.formsTemplates=a.data}),b.applyTemplate=function(b,e){var f=d.confirm().title(\"请确认\").content(\"是否使用此模版替换当前页面以及页面上的组件?\").ariaLabel(\"是否使用此模版替换当前页面以及页面上的组件?\").ok(\"确定\").cancel(\"取消\").targetEvent(e);d.show(f).then(function(){c.get(b.path).success(function(b){var c=a.currentPage,d=a.sceneData.pages[c];d.components=b.components,d.name=b.name,d.templateId=b.id}).error(function(){})},function(){})}}]),angular.module(\"ms.scene\").controller(\"toolsController\",[\"$rootScope\",\"$scope\",\"$document\",\"$http\",\"$timeout\",\"msDialog\",\"ngDialog\",\"sceneService\",\"textToolbarService\",function(a,b,c,d,e,f,g,h,i){a.toolsAction={onOk:function(b){b.propertices?(angular.extend(b.propertices,b.cache),delete b.propertices):a.appendComponentToPage({type:b.tool.type,propertices:angular.extend({},b.cache)},null,a.edittingTemplate)},\"text-tools\":function(b,d,e,f,g){function h(){var b=j.getData();e.text=b,a.updateComponentContentAsTemplate()}if(angular.isObject(e)){var j,k=\"text-\"+g.id,l=c.find(\"#\"+k),m=l.parents(\"ms-component:first\");if(CKEDITOR.instances[k])return;m.attr(\"data-editable\",!0),l.attr(\"contenteditable\",!0),CKEDITOR.instances[k]&&CKEDITOR.instances[k].destroy(),j=CKEDITOR.inline(k),j.on(\"blur\",function(a){l.removeAttr(\"contenteditable\"),a.editor.destroy()}),j.on(\"destroy\",function(){m.removeAttr(\"data-editable\"),h()})}else i.cache={text:\"请输入文本\"},a.appendComponentToPage({type:d.type,propertices:angular.extend({},i.cache),styles:{color:\"#000000\",\"background-color\":\"rgba(255, 255, 255, 0.3)\",padding:10}})},\"image-tools\":function(b,c,e,h){var i=\"components/\"+c.type+\"/editor.html\";h[c.type]?h[c.type].close():h[c.type]=f.create({width:500,icon:c.icon,title:\"添加\"+c.name,targetEvent:b,templateUrl:i,className:c.type+\"-dialog tools-dialog\",actions:!0,onOk:a.toolsAction.onOk,onCancel:angular.noop,controller:[\"$scope\",function(b){angular.extend(b,{cache:angular.extend({imgLib:\"myImages\"},e),tool:c,propertices:e,currentImgLib:\"myImages\",changeImgLib:function(a){b.currentImgLib=a,b.cache.imgLib=a},checkImg:function(a){var c=b.checkedImg;c&&c.path===a.path?b.checkedImg=null:(b.checkedImg=a,b.cache.url=a.path)},deleteImg:function(b){g.openConfirm({showClose:!0,template:'  <p>确定要删除图片吗？</p>  <div class=\"ngdialog-buttons\">      <md-button class=\"ngdialog-button md-button md-raised md-accent md-dafault-theme\" ng-click=\"confirm(1)\">删除</md-button>      <md-button class=\"ngdialog-button md-button md-raised md-dafault-theme\" ng-click=\"confirm(0)\">取消</md-button>  </div>',plain:!0,controller:[\"$scope\",function(c){c.confirm=function(e){e&&d.post(APIS.deleteImg,{type:\"img\",accountKey:APP.getParams(\"accountKey\"),path:b.path}).success(function(){var c=[];angular.forEach(a.myImages,function(a){a.path!==b.path&&c.push(a)}),a.myImages=c,g.openConfirm({showClose:!0,template:'  <p>删除成功！</p>  <div class=\"ngdialog-buttons\">      <md-button class=\"ngdialog-button md-button md-raised md-primary md-dafault-theme\" ng-click=\"confirm(0)\">关闭</md-button>  </div>',plain:!0})}).error(function(){g.openConfirm({showClose:!0,template:'  <p>抱歉，删除失败！请再试一次吧</p>  <div class=\"ngdialog-buttons\">      <md-button class=\"ngdialog-button md-button md-raised md-primary md-dafault-theme\" ng-click=\"confirm(0)\">关闭</md-button>  </div>',plain:!0})}),c.closeThisDialog()}}]})},upload:function(){var c=\"views/uploader.tpl.html\";g.open({template:c,scope:b,className:\"uploader-dialog ngdialog-theme-default \",controller:[\"$scope\",function(b){b.uploaderType=\"img\",b.uploaderUrl=APIS.uploadImg,b.onItemUploadSuccess=function(b,c){a.myImages.push(c)}}]})}})}],onFinally:function(){h[c.type]=null},onComplete:angular.noop}).show()},\"bg-tools\":function(b,c,e,h){function i(a){\"bgColor\"===a.cache.imgLib?(l.backgroundColor=a.cache.backgroundColor,l.backgroundImage=\"\"):l.backgroundImage=a.cache.url,h[c.type].close(),angular.extend(l,a.cache),delete a.propertices}var j=\"components/\"+c.type+\"/editor.html\",k=a.currentPage,l=a.sceneData.pages[k];h[c.type]?h[c.type].close():h[c.type]=f.create({width:500,icon:c.icon,title:\"设置\"+c.name,targetEvent:b,templateUrl:j,className:c.type+\"-dialog tools-dialog\",actions:!0,onOk:i,onCancel:angular.noop,controller:[\"$scope\",function(b){angular.extend(b,{cache:angular.extend({url:l.backgroundImage,imgLib:l.imgLib||\"myBgImages\",backgroundColor:l.backgroundColor},e),tool:c,propertices:e,currentImgLib:\"myBgImages\",changeImgLib:function(a){b.currentImgLib=a,b.cache.imgLib=a},checkImg:function(a,c){var d=a.type;angular.isObject(c)?(b.checkedImg=c,b.cache.url=c.path):(b.checkedImg=null,b.cache.backgroundColor=c),\"dblclick\"===d&&i(b)},deleteImg:function(b){g.openConfirm({showClose:!0,template:'  <p>确定要删除图片吗？</p>  <div class=\"ngdialog-buttons\">      <md-button class=\"ngdialog-button md-button md-raised md-accent md-dafault-theme\" ng-click=\"confirm(1)\">删除</md-button>      <md-button class=\"ngdialog-button md-button md-raised md-dafault-theme\" ng-click=\"confirm(0)\">取消</md-button>  </div>',plain:!0,controller:[\"$scope\",function(c){c.confirm=function(e){e&&d.post(APIS.deleteImg,{type:\"bg\",accountKey:APP.getParams(\"accountKey\"),path:b.path}).success(function(){var c=[];angular.forEach(a.myBgImages,function(a){a.path!==b.path&&c.push(a)}),a.myBgImages=c,g.openConfirm({showClose:!0,template:'  <p>删除成功！</p>  <div class=\"ngdialog-buttons\">      <md-button class=\"ngdialog-button md-button md-raised md-primary  md-dafault-theme\" ng-click=\"confirm(0)\">关闭</md-button>  </div>',plain:!0})}).error(function(){g.openConfirm({showClose:!0,template:'  <p>抱歉，删除失败！请再试一次吧</p>  <div class=\"ngdialog-buttons\">      <md-button class=\"ngdialog-button md-button md-raised md-primary md-dafault-theme\" ng-click=\"confirm(0)\">关闭</md-button>  </div>',plain:!0})}),c.closeThisDialog()}}]})},upload:function(){var c=\"views/uploader.tpl.html\";g.open({template:c,scope:b,className:\"uploader-dialog ngdialog-theme-default \",controller:[\"$scope\",function(b){b.uploaderType=\"bg\",b.uploaderUrl=APIS.uploadImg,b.onItemUploadSuccess=function(b,c){a.myBgImages.push(c)}}]})}})}],onFinally:function(){h[c.type]=null},onComplete:angular.noop}).show()},\"music-tools\":function(b,c,d,e){var g=\"components/\"+c.type+\"/editor.html\";e[c.type]?e[c.type].close():e[c.type]=f.create({width:600,icon:c.icon,title:\"设置背景\"+c.name,targetEvent:b,templateUrl:g,className:c.type+\"-dialog tools-dialog\",actions:!0,onOk:function(b){a.sceneData.music=b.cache.url,b.propertices?(angular.extend(b.propertices,b.cache),delete b.propertices):(a.sceneData.music=b.cache.url,a.sceneData.musicTabIndex=b.cache.selectedTabIndex)},onCancel:angular.noop,controller:[\"$scope\",function(b){b.cache=angular.extend({selectedTabIndex:a.sceneData.musicTabIndex||0,url:a.sceneData.music}),b.tool=c}],onFinally:function(){e[c.type]=null},onComplete:angular.noop}).show()},\"input-tools\":function(b,c,d,e){var g=\"components/\"+c.type+\"/editor.html\";e[c.type]?e[c.type].close():e[c.type]=f.create({width:600,icon:c.icon,title:\"添加\"+c.name,targetEvent:b,templateUrl:g,className:c.type+\"-dialog tools-dialog\",actions:!0,onOk:a.toolsAction.onOk,onCancel:angular.noop,controller:[\"$scope\",function(a){a.cache=angular.extend({},d),a.propertices=d,a.tool=c}],onFinally:function(){e[c.type]=null},onComplete:angular.noop}).show()},\"button-tools\":function(b,c,d,e){if(e[c.type])return void e[c.type].close();if(d){var g=\"components/\"+c.type+\"/editor.html\";e[c.type]=f.create({width:600,icon:c.icon,title:\"添加\"+c.name,targetEvent:b,templateUrl:g,className:c.type+\"-dialog tools-dialog\",actions:!0,onOk:a.toolsAction.onOk,onCancel:angular.noop,controller:[\"$scope\",function(a){a.cache=angular.extend({},d),a.propertices=d,a.tool=c}],onFinally:function(){e[c.type]=null},onComplete:angular.noop}).show()}else a.appendComponentToPage({type:c.type,styles:{width:\"200px\",height:\"50px\"},propertices:{text:\"按钮\"}},null,a.edittingTemplate)},\"albums-tools\":function(b,c,d,e){var g=\"components/\"+c.type+\"/editor.html\";e[c.type]?e[c.type].close():e[c.type]=f.create({width:500,icon:c.icon,title:\"添加\"+c.name,targetEvent:b,templateUrl:g,className:c.type+\"-dialog tools-dialog\",actions:!0,onOk:a.toolsAction.onOk,onCancel:angular.noop,controller:[\"$scope\",function(a){a.cache=angular.extend({},d),a.propertices=d,a.tool=c}],onFinally:function(){e[c.type]=null},onComplete:angular.noop}).show()},\"video-tools\":function(b,c,d,e){var g=\"components/\"+c.type+\"/editor.html\";e[c.type]?e[c.type].close():e[c.type]=f.create({width:500,icon:c.icon,title:\"添加\"+c.name,targetEvent:b,templateUrl:g,className:c.type+\"-dialog tools-dialog\",actions:!0,onOk:function(b){var c,d,e;b.propertices?(angular.extend(b.propertices,b.cache),a.updateComponentContentAsTemplate(),delete b.propertices):(c=a.createComponentId(),d=a.sceneData.pages[a.currentPage],e={id:c,type:b.tool.type,propertices:angular.extend({},b.cache)},a.putComponentContentAsTemplate(d,e),a.appendComponentToPage(e))},onCancel:angular.noop,controller:[\"$scope\",function(a){a.cache=angular.extend({},d),a.propertices=d,a.tool=c}],onFinally:function(){e[c.type]=null},onComplete:angular.noop}).show()}},h.tools.get().$promise.then(function(a){b.tools=a.data}),angular.extend(a,{getToolByType:function(a){var c;return angular.forEach(b.tools,function(b){return b.type===a?(c=b,!1):void 0}),c},openToolsEditor:function(b,c,d,e){var f,g=angular.isString(c)?c:c.type,h=a.toolsAction[g];c=a.getToolByType(g),a.dialogCache=f=a.dialogCache||{},angular.isFunction(h)&&h(b,c,d,f,e)}})}]),angular.module(\"ms.scene\").controller(\"textToolbarController\",[\"$rootScope\",\"$scope\",\"$document\",\"msDialog\",\"textToolbarService\",function(a,b,c,d,e){var f=b.toolSvc=e;angular.extend(b,{setCustomColor:function(a,b){f.customColor=b,f.editor.composer.commands.exec(\"foreColorStyle\",b)},setCustomBgColor:function(a,b){f.customBgColor=b,f.editor.composer.commands.exec(\"bgColorStyle\",b)},setCustomFontSize:function(a,b){f.customFontSize=b,f.editor.composer.commands.exec(\"fontSizeStyle\",b+\"px\")},saveColor:function(a,b){var c,d=$(a.target).parents(\".tool-drop-menu\");b&&(c=f.customColor),d.toggle()},saveBgColor:function(a,b){var c,d=$(a.target).parents(\".tool-drop-menu\");b&&(c=f.customBgColor),d.toggle()},saveFontSize:function(a,b){var c,d=$(a.target).parents(\".tool-drop-menu\");b&&(c=f.customFontSize),d.toggle()},fontSize:14,fontSizePx:b.fontSize+\"px\"}),b.$watch(function(){return f.customFontSize},function(a,b){a!==b&&(f.customFontSizePx=a+\"px\")})}]),angular.module(\"ms.textToolbarService\",[]).factory(\"textToolbarService\",[\"$mdDialog\",\"$http\",\"$templateCache\",function(){return{fontColors:[\"#FF0000\",\"#FFA500\",\"#FFFF00\",\"#008000\",\"#008B8B\",\"#00FFFF\",\"#0000FF\",\"#800080\",\"#000000\",\"#222222\",\"#444444\",\"#666666\",\"#888888\",\"#AAAAAA\",\"#CCCCCC\",\"#EEEEEE\"],bgColors:[\"#FF0000\",\"#FFA500\",\"#FFFF00\",\"#008000\",\"#008B8B\",\"#00FFFF\",\"#0000FF\",\"#800080\",\"#000000\",\"#222222\",\"#444444\",\"#666666\",\"#888888\",\"#AAAAAA\",\"#CCCCCC\",\"#EEEEEE\"],fontSize:[12,14,16,18,20,22,24,28,32,40,48],visible:!1,show:function(){this.visible=!0},hide:function(){this.visible=!1}}}]),angular.module(\"ms.scene\").controller(\"musicToolController\",[\"$rootScope\",\"$scope\",\"FileUploader\",\"msDialog\",\"ngDialog\",function(a,b,c,d,e){var f=b.musicUploader=new c({alias:\"fileStream\",url:APIS.uploadMusic,autoUpload:!0,formData:[{uploadType:a.templateMode?\"$TEMPLATE\":APP.getParams(\"uploadType\")},{accountKey:APP.getParams(\"accountKey\")}]});f.filters.push({name:\"customFilter\",fn:function(){return this.queue.length<2}}),f.onSuccessItem=function(c,d){var e=d.path.substring(d.path.lastIndexOf(\"/\")+1),f={category:\"rock\",name:e,url:d.path};b.$parent.cache.url=f.url,a.myMusicData.push(f)},f.onCompleteAll=function(){f.clearQueue(),e.openConfirm({showClose:!1,template:'  <p>上传成功.</p>  <div class=\"ngdialog-buttons\">     <md-button class=\"ngdialog-button md-button md-raised md-primary md-dafault-theme\" ng-click=\"confirm(0)\">完成</md-button>  </div>',plain:!0,controller:[\"$scope\",function(a){a.confirm=function(b){b||(f.destroy(),a.closeThisDialog())}}]})}}]),angular.module(\"ms.scene\").run([\"$rootScope\",\"$templateCache\",\"md5\",\"ComponentsConfigService\",\"componentEditorService\",function(a,b,c,d,e){angular.extend(a,{createMd5Id:function(a){var b=+new Date,d=Math.floor(1e4*Math.random()),e=APP.getParams(\"accountKey\"),f=[a||\"MS\",e,b,d].join(\"-\");return c.createHash(f)},createComponentId:function(){return a.createMd5Id(\"component\")},createPageId:function(){return a.createMd5Id(\"page\")},createSceneId:function(){return a.createMd5Id(\"scene\")},appendComponentToPage:function(c,f,g){var h=a.sceneData.pages,i=g||(angular.isObject(f)?f:angular.isNumber(f)?h[f]:h[a.currentPage]),j={id:a.createComponentId(),type:null,styles:{},animation:{},propertices:{}},k=angular.extend({},j),l=c.type||k.type,m=d[l]||d.defaults;angular.forEach(k,function(a,b){switch(b){case\"styles\":k[b]=angular.extend({},m.styles,a,c[b],{zIndex:i.components.length});break;case\"animation\":k[b]=angular.extend({},m.animation,a,c[b]);break;case\"propertices\":k[b]=angular.extend({},m.propertices,a,c[b]);break;default:angular.isObject(a)?k[b]=angular.extend({},a,c[b]):k[b]=c[b]||j[b]}});var n=[a.sceneData.id,i.id,k.id,\"content\"].join(\"/\");b.put(n,k.propertices.text),i.components.push(k),a.checkedComponent=k,e.component=k,k=j=c=null}})}]).controller(\"playgroundController\",[\"$rootScope\",\"$scope\",\"$document\",\"$interval\",\"$timeout\",\"$animate\",\"ngDialog\",\"msDialog\",\"componentEditorService\",function(a,b,c,d,e,f,g,h,i){b.currentTime=\"凌晨 00:00\",b.wifiState=\"signal_wifi_2_bar\",b.batteryState=\"battery_full\",d(function(){var a=new Date,c=a.getHours(),d=a.getMinutes(),e=5>c?\"凌晨\":9>c?\"早上\":12>c?\"上午\":14>c&&30>=d?\"中午\":17>c?\"下午\":21>c?\"晚上\":23",
+		"/Users/colin/Projects/magicscenes/app/styles/_playground.scss",
+		"/Users/colin/Projects/magicscenes/app/scripts/client/audio.js",
+		"/Users/colin/Projects/magicscenes/app/scripts/client/init.js",
+		"/Users/colin/Projects/magicscenes/app/exclude.list",
+		"/Users/colin/Projects/magicscenes/app/components/music-tools/editor.html",
+		"/Users/colin/Projects/magicscenes/app/components/bg-tools/editor.html",
+		"/Users/colin/Projects/magicscenes/app/styles/client/_animate-settings.scss"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"",
+			"debugger",
+			"/Users/colin/Projects/magicscenes/app/scripts",
+			"/Users/colin/Projects/magicscenes/",
+			"/Users/colin/Projects/magicscenes/app/",
+			"/Users/colin/Projects/magicscenes/app/styles",
+			"/Users/colin/Projects/magicscenes/app/scripts",
+			"<project>",
+			"/Users/colin/Projects/magicscenes/",
+			"/Users/colin/Projects/magicscenes",
+			"/Users/colin/Projects/magicscenes/app/scripts",
+			"/Users/colin/Projects/magicscenes/app/styles/",
+			"/Users/colin/Projects/magicscenes/app/styles"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"project",
+			"var ",
+			":",
+			";}",
+			"<a href=\"http://documentation.magicwindow.cn/?sdk-ios\">http://documentation.magicwindow.cn/?sdk-ios</a>",
+			"（<a href=\"http://documentation.magicwindow.cn/?mlink\">http://documentation.magicwindow.cn/?mlink</a>）",
+			"mLink使用说明",
+			"ol>",
+			"<li>",
+			"、",
+			"demo-show",
+			"\n        <div class=\"section-container\">\n            <h3>使用帮助文档</h3>\n            <a href=\"?mutual-post-manual\">协同互推使用手册</a>\n            <a href=\"?backend-manual\">后台使用说明</a>\n            <a href=\"?activity-manual\">活动使用说明</a>\n        </div>",
+			">\n",
+			"<img",
+			"\n",
+			"  ",
+			"\n\n    <div>\n        <a id=\"link\" href=\"http://www.baidu.com\">百度</a>\n        <button id=\"link\" onclick=\"openLink('http://www.baidu.com')\">百度</button>\n    </div>",
+			"\n    <div>\n\n        <a id=\"link\" href=\"mwshow://dianshang\">mwshow</a>\n        <button id=\"link\" onclick=\"openLink('mwshow://dianshang')\">mwshow</button>\n\n    </div>",
+			"link",
+			">\n",
+			"'\n",
+			">\n",
+			"\"32\"",
+			"md-primary",
+			"style=\"fill:#fff;\"",
+			"md-default-theme\">",
+			"path",
+			",\n        \"type\": \"bg\"",
+			"img",
+			"\"type\": \"bg\"",
+			"md-button md-primary",
+			"md-primary",
+			"md-button",
+			"',\n",
+			"\n\n      .state('admin.scene', {\n        url: '/admin/scene/:sceneId',\n        //resolve: securityAuthorizationProvider.requireAdminUser,\n        views: {\n          '': {\n            templateUrl: 'views/admin.tmpl.html',\n            controller: ['$rootScope', '$scope', '$stateParams', '$state',\n              function (  $rootScope,   $scope,   $stateParams) {\n                $scope.$root.templateMode = true;\n                $scope.$root.sceneId = APP.sceneId = $stateParams.sceneId;\n                $rootScope.loadScene($stateParams.sceneId);\n              }\n            ]\n          }\n        }\n      })",
+			";\n",
+			"ink-bar",
+			"md-tabs-wrapper",
+			".md-subheader",
+			"1.4.1",
+			"1.3.3",
+			"debugger",
+			"getuser",
+			"\n\n  getuser: function (req, res) {\n\n    this.isAdmin = !this.isAdmin;\n    var user = {\n      admin: this.isAdmin,\n      name: 'Colin',\n      id: 'user-id-xxx'\n    }\n\n    res.setHeader('Content-Type', 'application/json');\n    res.end(JSON.stringify(user));\n  }",
+			"username",
+			"mock",
+			"\n      .state('admin', {\n        url: '/admin/scenes/:sceneId',\n        views: {\n          '': {\n            templateUrl: 'views/admin.tmpl.html',\n            controller: ['$rootScope', '$scope', '$stateParams', '$state',\n              function (  $rootScope,   $scope,   $stateParams) {\n                $scope.$root.templateMode = true;\n                $scope.$root.sceneId = APP.sceneId = $stateParams.sceneId;\n                $rootScope.loadScene($stateParams.sceneId);\n              }\n            ]\n          }\n        }\n      })",
+			"securityRetryQueue",
+			"data-",
+			"Content-Type'",
+			"200",
+			"ngDialog",
+			"mdDialog",
+			"ngDialog",
+			"mdDialog",
+			"\n        <script src=\"scripts/wysihtml5-parser-rules.js\"></script>",
+			"<button class=\"md-button md-primary\">登录</button>\n      ",
+			"\n\n    <div layout=\"row\">\n        <div layout=\"column\" flex=\"50\">\n          <md-input-container>\n            <label>用户名</label>\n            <input md-maxlength=\"30\" required name=\"username\" ng-model=\"cache.text\">\n            <div ng-messages=\"inputToolsForm.description.$error\">\n              <div ng-message=\"required\">您必须填写此字段</div>\n              <div ng-message=\"md-maxlength\">长度不能超过30个字符.</div>\n            </div>\n          </md-input-container>\n        </div>\n        <div layout=\"column\" flex=\"30\">\n          <!-- <md-switch ng-model=\"cache.required\" value=\"\" aria-label=\"是否必填\"> -->\n            必填\n          <!-- </md-switch> -->\n        </div>",
+			"concat",
+			"res.publicPath",
+			"elem.parentNode.parentNode",
+			"parentNode.",
+			"required",
+			"');\n",
+			"\n    'input-tools': {\n      'styles': angular.extend({}, defaults.styles, {\n        backgroundColor: '#ffffff',\n        backgroundAlpha  : 100,\n        borderRadius: 5,\n        borderWidth : 1\n      }),\n\n      'animation': angular.extend({}, defaults.animation, {\n\n      })\n    },\n",
+			"{\n",
+			");\n",
+			";\n",
+			"component-content",
+			"\n/**\n * 富文本编辑器菜单的子菜单\n */\n.directive('msRichtextDialog', ['$document', '$timeout',\n\n  function (/*$document, $timeout*/) {\n    return {\n      restrict: 'A',\n      scope: '@&',\n      link : function($scope, element /*, attrs/*, controller*/) {\n\n        var dialog = element.siblings('.tool-drop-menu');\n\n        dialog.css({'display': 'none'}).\n        click(function() {\n\n        });\n\n        element.on('click.showRichtextDialog', function() {\n\n          dialog.toggle();\n\n        });\n\n      }\n    };\n  }\n])",
+			"src=",
+			";",
+			"');\n",
+			"swiper-slide-active ",
+			"//",
+			"jsonp",
+			"');\n",
+			"',\n",
+			"script",
+			"4",
+			"effect",
+			"initSwiper",
+			"longSwipesRatio",
+			"longSwipes",
+			"touchEvents",
+			"touchend",
+			"coverflow",
+			"form.id",
+			"serializeJson",
+			"submitForm",
+			");\n",
+			"save",
+			"\"",
+			"\n        SERVER.domain = res.config.h5Domain;\n        SERVER.siteDomain = res.config.siteDomain;\n",
+			"SERVER",
+			"md5",
+			":",
+			"newList",
+			"comp",
+			"zIndexBehindComponent",
+			"comment",
+			"effec",
+			"active",
+			"ng",
+			"$components",
+			"$rootScope.checkedComponent",
+			"componentEditorService",
+			"debugger",
+			"\n              <md-select placeholder=\"请选择\" ng-model=\"$root.checkedComponent.animation.path\">\n                <md-option\n                  ng-repeat=\"path in $root.getAnimationByName($root.checkedComponent.animation.name).path\"\n                  ng-selected=\"((path===$root.checkedComponent.animation.path)\n                          || (!$root.isOwnerPath($root.checkedComponent.animation.name, path)&&$index===0))\"\n                  value=\"{{path}}\"\n                >\n                  {{ $root.animationPathLabels[path] }}\n                </md-option>\n              </md-select>",
+			"path",
+			"animation.path",
+			"getAnimationPath",
+			"cesvc",
+			"path",
+			"checkedComponent.animation.path",
+			"generateHtml",
+			"previewBox",
+			"swiper",
+			"slide",
+			": ",
+			"/>\n",
+			"swiper",
+			"text",
+			"app",
+			"wire",
+			"cssmin",
+			"{geekId: 'list'}",
+			"{},"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								863,
+								863
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/glacier.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 34.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/templates/tab-dash.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/glacier.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "platforms/android/AndroidManifest.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2122,
+								2122
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/glacier.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "platforms/browser/config.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1071,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1065,
+								1065
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/glacier.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								477,
+								453
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": true,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/glacier.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "bower.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": true,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/glacier.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mw-jssdk-example.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gr",
+				"Gruntfile.js"
+			],
+			[
+				"g",
+				"Gruntfile.js"
+			],
+			[
+				"mock",
+				"mock-server.js"
+			],
+			[
+				"gru",
+				"Gruntfile.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"moc",
+				"mock-server.js"
+			],
+			[
+				"play",
+				"app/scripts/playground.ctrl.js"
+			],
+			[
+				"comp-ed",
+				"app/views/component-editor.tpl.html"
+			],
+			[
+				"com",
+				"app/configs/components-template.json"
+			],
+			[
+				"too",
+				"app/scripts/tools.ctrl.js"
+			],
+			[
+				"scene",
+				"app/scripts/scene.ctrl.js"
+			],
+			[
+				"swi",
+				"app/scripts/client/swipe.js"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"scene.htm",
+				"app/views/scene.tmpl.html"
+			],
+			[
+				"apis",
+				"app/configs/apis.js"
+			],
+			[
+				"pre",
+				"app/views/preview.tpl.html"
+			],
+			[
+				"form",
+				"app/scripts/client/form.js"
+			],
+			[
+				"bow",
+				"bower.json"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"svc.",
+				"app/scripts/scene.svc.js"
+			],
+			[
+				"scene.tpl",
+				"app/views/scene.tmpl.html"
+			],
+			[
+				"tool",
+				"app/scripts/tools.ctrl.js"
+			],
+			[
+				"swipe",
+				"app/scripts/client/swipe.js"
+			],
+			[
+				".jsh",
+				".jshintrc"
+			],
+			[
+				"direc",
+				"app/scripts/directives.js"
+			],
+			[
+				"client/form.js",
+				"app/scripts/client/form.js"
+			],
+			[
+				"scene.h",
+				"app/views/scene.tmpl.html"
+			],
+			[
+				"gen.html",
+				"app/views/scenes-generator.html"
+			],
+			[
+				"tools",
+				"app/scripts/tools.ctrl.js"
+			],
+			[
+				"ctrl.js",
+				"app/scripts/scene.ctrl.js"
+			],
+			[
+				"up",
+				"app/scripts/uploader.svc.js"
+			],
+			[
+				"",
+				"app/scripts/scene.ctrl.js"
+			],
+			[
+				"page",
+				"app/scripts/pages.ctrl.js"
+			],
+			[
+				"pla",
+				"app/scripts/playground.ctrl.js"
+			],
+			[
+				"uploa",
+				"app/scripts/uploader.svc.js"
+			],
+			[
+				"uplo",
+				"app/scripts/uploader.svc.js"
+			],
+			[
+				"scene.sv",
+				"app/scripts/scene.svc.js"
+			],
+			[
+				"comp",
+				"app/scripts/component.editor.svc.js"
+			],
+			[
+				"tools.c",
+				"app/scripts/tools.ctrl.js"
+			],
+			[
+				"scene.js",
+				"mocks/scene.js"
+			],
+			[
+				"u",
+				"app/scripts/uploader.svc.js"
+			],
+			[
+				"text",
+				"app/scripts/text-toolbar.svc.js"
+			],
+			[
+				"con",
+				"app/scripts/contextmenu.js"
+			],
+			[
+				"mocks/",
+				"mocks/scene.js"
+			],
+			[
+				"scene.ctrl",
+				"app/scripts/scene.ctrl.js"
+			],
+			[
+				"rules",
+				"app/scripts/wysihtml5-parser-rules.js"
+			],
+			[
+				"rule",
+				"app/scripts/wysihtml5-parser-rules.js"
+			],
+			[
+				"dia",
+				"app/scripts/dialog.svc.js"
+			],
+			[
+				"app.",
+				"app/scripts/app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/zxinsight/mw-tracking-js/mw-tracking-js.sublime-project"
+			],
+			[
+				"a",
+				"~/Projects/animate.3d/animate.3d.sublime-project"
+			],
+			[
+				"us",
+				"~/Projects/usergroup/usergroup.sublime-project"
+			],
+			[
+				"ami",
+				"~/Projects/animate.3d/animate.3d.sublime-project"
+			],
+			[
+				"ip",
+				"~/Projects/wysihtml/wysihtml.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
