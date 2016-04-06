@@ -12,6 +12,13 @@
     <link href="css/ionic.app.css" rel="stylesheet">
     -->
 
+    <script>
+      // Custom Scheme Handle
+      function handleOpenURL(url) {
+
+      }
+    </script>
+
     <!-- ionic/angularjs js -->
     <script src="lib/angular/angular.js"></script>
     <script src="lib/angular-animate/angular-animate.js"></script>
@@ -169,16 +176,6 @@
         });
 
       }, false);
-
-
-      // Custom Scheme Handle
-      function handleOpenURL(url) {
-        try {
-          localStorage.setItem('scheme', url);
-        }catch(e){
-          alert(e.message);
-        }
-      }
     </script>
 
 

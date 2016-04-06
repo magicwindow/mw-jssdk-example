@@ -1,11 +1,17 @@
-<ion-view view-title="我的账户">
+<ion-view view-title="设置">
   <ion-content>
 
     <mw-block id="9YGNHRYK"></mw-block>
 
     <ion-list>
     <ion-toggle  ng-model="settings.enableFriends">
-        我的好友
+        接受系统消息
+    </ion-toggle>
+    <ion-toggle  ng-model="settings.enablePush">
+        为我推荐附近好玩的景点
+    </ion-toggle>
+    <ion-toggle  ng-model="settings.enableWifiDownload">
+        非WIFI不下载图片
     </ion-toggle>
     </ion-list>
   </ion-content>

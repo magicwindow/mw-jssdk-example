@@ -13,8 +13,8 @@
   color: #fff;
 }
 
-.has-tabs-top {
-  /*top: 110px !important;*/
+.scroll-content.has-tabs-top {
+  top: 110px !important;
 }
 
 
@@ -49,4 +49,9 @@
 
 .mw-tabs mw-block:empty {
   display: none;
+}
+
+
+.mw-dash .card {
+  margin: 0;
 }

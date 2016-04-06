@@ -66,6 +66,8 @@ angular.module('starter.controllers', [])
 
 .controller('AccountCtrl', function($scope) {
   $scope.settings = {
-    enableFriends: true
+    enableFriends: true,
+    enableWifiDownload: true,
+    enablePush: false
   };
 });

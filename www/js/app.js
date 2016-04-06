@@ -20,6 +20,27 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
       // org.apache.cordova.statusbar required
       StatusBar.styleLightContent();
     }
+
+    // Scheme 路由
+    if (window.plugins && window.plugins.launchmyapp) {
+      window.plugins.launchmyapp.getLastIntent(function (scheme) {
+        console.log('scheme: '+  scheme);
+        if (scheme) {
+          var path = '/' + scheme.replace(/^\w+:\/*/, '');
+          document.location.hash = path;
+        };
+      });
+    }
+
+    // 场景还原
+    // 如果您的App是从mlink引导用户下载安装的,那么用户第一次打开应用可以还原用户最后在网页和社交媒体上看到的场景;
+    mwsdk.router(function(path) {
+      console.log('mwsdk.router:'+ path);
+      if (path) {
+        document.location.hash = path;
+      }
+    });
+
   });
 })
 
@@ -33,25 +54,25 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
 
   // setup an abstract state for the tabs directive
     .state('tab', {
-    url: '/tab',
-    abstract: true,
-    templateUrl: 'templates/tabs.html'
-  })
+      url: '/tab',
+      abstract: true,
+      templateUrl: 'templates/tabs.html'
+    })
 
-  // Each tab has its own nav history stack:
+    // Each tab has its own nav history stack:
 
-  .state('tab.dash', {
-    url: '/dash',
-    views: {
-      'tab-dash': {
-        templateUrl: 'templates/tab-dash.html',
-        controller: 'DashCtrl'
+    .state('tab.dash', {
+      url: '/dash',
+      views: {
+        'tab-dash': {
+          templateUrl: 'templates/tab-dash.html',
+          controller: 'DashCtrl'
+        }
       }
-    }
-  })
+    })
 
-  .state('tab.chats', {
-      url: '/chats',
+    .state('tab.chats', {
+      url: '/trips',
       views: {
         'tab-chats': {
           templateUrl: 'templates/tab-chats.html',
@@ -60,7 +81,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
       }
     })
     .state('tab.chat-detail', {
-      url: '/chats/:chatId',
+      url: '/trips/:chatId',
       views: {
         'tab-chats': {
           templateUrl: 'templates/chat-detail.html',
@@ -69,38 +90,17 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
       }
     })
 
-  .state('tab.account', {
-    url: '/account',
-    views: {
-      'tab-account': {
-        templateUrl: 'templates/tab-account.html',
-        controller: 'AccountCtrl'
+    .state('tab.account', {
+      url: '/account',
+      views: {
+        'tab-account': {
+          templateUrl: 'templates/tab-account.html',
+          controller: 'AccountCtrl'
+        }
       }
-    }
-  });
+    });
 
   // if none of the above states are matched, use this as the fallback
   $urlRouterProvider.otherwise('/tab/dash');
-
-  // Scheme 路由
-  if (window.localStorage && window.localStorage.getItem('scheme')) {
-    try {
-      var path = '/' + localStorage.getItem('scheme').replace(/^\w+:\/*/, '');
-      alert('path: ' + path);
-      localStorage.setItem('scheme', '');
-      document.location.hash = path;
-    }catch(e){
-      alert(e.message);
-    }
-
-  }
-
-  // 场景还原
-  // 如果您的App是从mlink引导用户下载安装的,那么用户第一次打开应用可以还原用户最后在网页和社交媒体上看到的场景;
-  mwsdk.router(function(path) {
-    if (path) {
-      document.location.hash = path;
-    }
-  });
 
 });

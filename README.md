@@ -48,14 +48,14 @@ $ npm install mw-sdk --save
 
 ## Custom URL Scheme
 - mwjssdk://
-- mwjssdk://tab/dash
-- mwjssdk://tab/chats
-- mwjssdk://tab/chats/10000
-- mwjssdk://tab/chats/10001
-- mwjssdk://tab/chats/10002
-- mwjssdk://tab/chats/10003
-- mwjssdk://tab/chats/10004
-- mwjssdk://tab/account
+- [mwjssdk://tab/dash](mwjssdk://tab/dash) (所有魔窗位)
+- [mwjssdk://tab/trips](mwjssdk://tab/trips) (自助游)
+- [mwjssdk://tab/trips/10000](mwjssdk://tab/trips/10000) (自助游 > 阿里,一个人的转山路)
+- [mwjssdk://tab/trips/10001](mwjssdk://tab/trips/10001) (自助游 > 自驾横穿美国20天)
+- [mwjssdk://tab/trips/10002](mwjssdk://tab/trips/10002) (自助游 > 希腊&意大利自由行14天)
+- [mwjssdk://tab/trips/10003](mwjssdk://tab/trips/10003) (自助游 > 长白山~红海滩逐秋)
+- [mwjssdk://tab/trips/10004](mwjssdk://tab/trips/10004) (自助游 > 走在西行向北的路上)
+- [mwjssdk://tab/account](mwjssdk://tab/account) (设置)
 
 ## 更多
 如果您想了解关于Magicwindow JSSDK更多的资料，请前往[MagicWindow JSSDK](https://github.com/magicwindow/mw-jssdk)的Repository。

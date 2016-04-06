@@ -1,19 +1,16 @@
-<ion-view view-title="聊天">
+<ion-view view-title="自助游">
   <ion-content>
 
     <mw-block id="AH4XOX3I" data-mlink-params="{'a':'14', 'b':'24'}"></mw-block>
 
-    <ion-list>
-      <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="chat in chats" type="item-text-wrap" href="#/tab/chats/{{chat.id}}">
-        <img ng-src="{{chat.face}}">
-        <h2>{{chat.name}}</h2>
-        <p>{{chat.lastText}}</p>
-        <i class="icon ion-chevron-right icon-accessory"></i>
+    <div class="list">
 
-        <ion-option-button class="button-assertive" ng-click="remove(chat)">
-          删除
-        </ion-option-button>
-      </ion-item>
-    </ion-list>
+      <a ng-repeat="chat in chats" class="item item-thumbnail-left"  href="#/tab/trips/{{chat.id}}">
+        <img ng-src="{{chat.face}}">
+        <h2 ng-bind="chat.name">...</h2>
+        <p ng-bind="chat.lastText">...</p>
+      </a>
+
+    </div>
   </ion-content>
 </ion-view>
