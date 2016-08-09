@@ -13,9 +13,17 @@
     -->
 
     <script>
-      // Custom Scheme Handle
-      function handleOpenURL(url) {
 
+
+      window.onerror = function (errorMsg, url, lineNumber) {
+//        alert('Error: ' + errorMsg + ' Script: ' + url + ' Line: ' + lineNumber);
+      }
+
+      // Custom Scheme Handle
+      function handleOpenURL(scheme) {
+//        alert('Open with scheme: ' + scheme);
+        var path = '/' + scheme.replace(/^\w+:\/*/, '');
+        document.location.hash = path;
       }
     </script>
 
@@ -63,6 +71,7 @@
         "prod": {
           'server'  : 'http://stats.magicwindow.cn',
           'appkey'  : '760MMH20F0M1BE56LR2L0U0FZ1CRASC3' // AppName: iOs 魔窗演示app
+//          'appkey'  : 'SDTQ6OXDCPTN24IUCVRRKQLPJTXM75H9' // AppName: iOs 魔窗演示app
         },
         "local": {
           'server': 'http://192.168.1.41:3010/',
@@ -73,14 +82,6 @@
       // device 信息由Cordova插件"cordova-plugin-device"提供,
       // 请为您的项目安装Cordova插件: cordova plugin cordova-plugin-device
       document.addEventListener("deviceready", function() {
-
-        mwsdk.device.model        = window.device.model;
-        mwsdk.device.os           = window.device.os;
-        mwsdk.device.version      = window.device.version;
-        mwsdk.device.uuid         = window.device.uuid;
-        mwsdk.device.manufacturer = window.device.manufacturer;
-        mwsdk.device.isVirtual    = window.device.isVirtual;
-        mwsdk.device.serial       = window.device.serial;
 
         /**
          * 您自定义的字符串格式化代码
@@ -154,7 +155,6 @@
          * 初始化MWSDK
          */
         mwsdk.init({
-          'server'  : config.server, // 不用修改
           'appkey'  : config.appkey, // 从哪里获取appkey: 魔窗后台 》应用设置 》应用管理 》（你关联的应用里面的appkey）
           'appVersion': '2.3',
           'template': {
@@ -177,7 +177,6 @@
 
       }, false);
     </script>
-
 
   </body>
 </html>

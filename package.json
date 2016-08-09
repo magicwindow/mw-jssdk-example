@@ -16,14 +16,15 @@
   "cordovaPlugins": [
     "cordova-plugin-device",
     "cordova-plugin-console",
-    "cordova-plugin-splashscreen",
     "com.ionic.keyboard",
     "org.apache.cordova.device",
-    "cordova-plugin-x-socialsharing",
-    "cordova-plugin-wechat"
+    "ionic-plugin-keyboard",
+    "cordova-plugin-keyboard",
+    "cordova-plugin-splashscreen"
   ],
   "cordovaPlatforms": [
-    "ios"
+    "ios",
+    "android"
   ],
   "platforms": []
 }

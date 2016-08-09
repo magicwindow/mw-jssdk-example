@@ -14,26 +14,16 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
     if (window.cordova && window.cordova.plugins && window.cordova.plugins.Keyboard) {
       cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
       cordova.plugins.Keyboard.disableScroll(true);
-
     }
     if (window.StatusBar) {
       // org.apache.cordova.statusbar required
       StatusBar.styleLightContent();
     }
 
-    // Scheme 路由
-    if (window.plugins && window.plugins.launchmyapp) {
-      window.plugins.launchmyapp.getLastIntent(function (scheme) {
-        console.log('scheme: '+  scheme);
-        if (scheme) {
-          var path = '/' + scheme.replace(/^\w+:\/*/, '');
-          document.location.hash = path;
-        };
-      });
-    }
-
     // 场景还原
     // 如果您的App是从mlink引导用户下载安装的,那么用户第一次打开应用可以还原用户最后在网页和社交媒体上看到的场景;
+    // @param {String} path 用户在未安装您的App前,在微信,朋友圈,H5或其他网页上通过mLink短链点击过来的路径;
+    debugger;
     mwsdk.router(function(path) {
       console.log('mwsdk.router:'+ path);
       if (path) {
